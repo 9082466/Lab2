@@ -6,10 +6,10 @@
         "price": 437.2,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Edmonton",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "10/18/2014",
-        "days_since_purchase": 3999,
-        "total_amount": 1846295.5999999999
+        "days_since_purchase": 4000,
+        "total_amount": 3692591.1999999997
     },
     "1": {
         "customer_id": 5890,
@@ -20,7 +20,7 @@
         "city": "Montreal",
         "discount": 0,
         "purchase_date": "11/7/2011",
-        "days_since_purchase": 5075,
+        "days_since_purchase": 5076,
         "total_amount": 464953.08
     },
     "2": {
@@ -30,10 +30,10 @@
         "price": 255.28,
         "coupon_code": "SAVE10",
         "city": "Ottawa",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "10/31/2016",
-        "days_since_purchase": 3255,
-        "total_amount": 348533.78400000004
+        "days_since_purchase": 3256,
+        "total_amount": 387259.76
     },
     "3": {
         "customer_id": 1076,
@@ -42,10 +42,10 @@
         "price": 205.7,
         "coupon_code": "HOLIDAY25",
         "city": "Calgary",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "4/10/2010",
-        "days_since_purchase": 5651,
-        "total_amount": 512501.54999999993
+        "days_since_purchase": 5652,
+        "total_amount": 683335.3999999999
     },
     "4": {
         "customer_id": 3021,
@@ -54,10 +54,10 @@
         "price": 9.33,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Calgary",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "8/16/2011",
-        "days_since_purchase": 5158,
-        "total_amount": 45926.925
+        "days_since_purchase": 5159,
+        "total_amount": 91853.85
     },
     "5": {
         "customer_id": 3730,
@@ -66,10 +66,10 @@
         "price": 205.7,
         "coupon_code": "SAVE10",
         "city": "Unknown",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "11/24/2014",
-        "days_since_purchase": 3962,
-        "total_amount": 1763918.64
+        "days_since_purchase": 3963,
+        "total_amount": 1959909.5999999999
     },
     "6": {
         "customer_id": 5694,
@@ -78,10 +78,10 @@
         "price": 205.7,
         "coupon_code": "HOLIDAY25",
         "city": "Ottawa",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "3/4/2015",
-        "days_since_purchase": 3862,
-        "total_amount": 438758.1
+        "days_since_purchase": 3863,
+        "total_amount": 585010.7999999999
     },
     "7": {
         "customer_id": 4319,
@@ -92,7 +92,7 @@
         "city": "Calgary",
         "discount": 0,
         "purchase_date": "5/17/2012",
-        "days_since_purchase": 4883,
+        "days_since_purchase": 4884,
         "total_amount": 797634.72
     },
     "8": {
@@ -102,10 +102,10 @@
         "price": 154.06,
         "coupon_code": "SAVE10",
         "city": "Ottawa",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "1/29/2015",
-        "days_since_purchase": 3896,
-        "total_amount": 336651.912
+        "days_since_purchase": 3897,
+        "total_amount": 374057.68
     },
     "9": {
         "customer_id": 7287,
@@ -114,10 +114,10 @@
         "price": 154.06,
         "coupon_code": "HOLIDAY25",
         "city": "Ottawa",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "12/24/2013",
-        "days_since_purchase": 4297,
-        "total_amount": 554616.0
+        "days_since_purchase": 4298,
+        "total_amount": 739488.0
     },
     "10": {
         "customer_id": 3653,
@@ -126,10 +126,10 @@
         "price": 109.28,
         "coupon_code": "WELCOME5",
         "city": "Montreal",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "12/29/2015",
-        "days_since_purchase": 3562,
-        "total_amount": 312693.79199999996
+        "days_since_purchase": 3563,
+        "total_amount": 329151.36
     },
     "11": {
         "customer_id": 9449,
@@ -138,10 +138,10 @@
         "price": 152.58,
         "coupon_code": "WELCOME5",
         "city": "Ottawa",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "2/27/2010",
-        "days_since_purchase": 5693,
-        "total_amount": 390497.994
+        "days_since_purchase": 5694,
+        "total_amount": 411050.52
     },
     "12": {
         "customer_id": 6926,
@@ -152,7 +152,7 @@
         "city": "Edmonton",
         "discount": 0,
         "purchase_date": "11/17/2016",
-        "days_since_purchase": 3238,
+        "days_since_purchase": 3239,
         "total_amount": 1007751.1599999999
     },
     "13": {
@@ -164,7 +164,7 @@
         "city": "Montreal",
         "discount": 0,
         "purchase_date": "12/20/2015",
-        "days_since_purchase": 3571,
+        "days_since_purchase": 3572,
         "total_amount": 1812631.2
     },
     "14": {
@@ -174,10 +174,10 @@
         "price": 9.33,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Unknown",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "1/8/2011",
-        "days_since_purchase": 5378,
-        "total_amount": 34203.78
+        "days_since_purchase": 5379,
+        "total_amount": 68407.56
     },
     "15": {
         "customer_id": 8611,
@@ -186,10 +186,10 @@
         "price": 109.28,
         "coupon_code": "HOLIDAY25",
         "city": "Toronto",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "6/28/2010",
-        "days_since_purchase": 5572,
-        "total_amount": 395047.19999999995
+        "days_since_purchase": 5573,
+        "total_amount": 526729.6
     },
     "16": {
         "customer_id": 8283,
@@ -200,7 +200,7 @@
         "city": "Edmonton",
         "discount": 0,
         "purchase_date": "4/25/2016",
-        "days_since_purchase": 3444,
+        "days_since_purchase": 3445,
         "total_amount": 1560950.37
     },
     "17": {
@@ -210,10 +210,10 @@
         "price": 47.45,
         "coupon_code": "HOLIDAY25",
         "city": "Calgary",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "7/27/2012",
-        "days_since_purchase": 4812,
-        "total_amount": 102492.0
+        "days_since_purchase": 4813,
+        "total_amount": 136656.0
     },
     "18": {
         "customer_id": 1163,
@@ -224,7 +224,7 @@
         "city": "Calgary",
         "discount": 0,
         "purchase_date": "9/8/2014",
-        "days_since_purchase": 4039,
+        "days_since_purchase": 4040,
         "total_amount": 122065.76
     },
     "19": {
@@ -234,10 +234,10 @@
         "price": 668.27,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "8/27/2012",
-        "days_since_purchase": 4781,
-        "total_amount": 3003539.515
+        "days_since_purchase": 4782,
+        "total_amount": 6007079.03
     },
     "20": {
         "customer_id": 2987,
@@ -246,10 +246,10 @@
         "price": 152.58,
         "coupon_code": "WELCOME5",
         "city": "Montreal",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "9/3/2012",
-        "days_since_purchase": 4774,
-        "total_amount": 58995.057
+        "days_since_purchase": 4775,
+        "total_amount": 62100.060000000005
     },
     "21": {
         "customer_id": 7875,
@@ -260,7 +260,7 @@
         "city": "Edmonton",
         "discount": 0,
         "purchase_date": "8/27/2010",
-        "days_since_purchase": 5512,
+        "days_since_purchase": 5513,
         "total_amount": 689884.64
     },
     "22": {
@@ -270,10 +270,10 @@
         "price": 81.73,
         "coupon_code": "HOLIDAY25",
         "city": "Ottawa",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "2/20/2011",
-        "days_since_purchase": 5335,
-        "total_amount": 593421.0975
+        "days_since_purchase": 5336,
+        "total_amount": 791228.13
     },
     "23": {
         "customer_id": 4038,
@@ -282,10 +282,10 @@
         "price": 109.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Unknown",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "12/12/2015",
-        "days_since_purchase": 3579,
-        "total_amount": 28139.6
+        "days_since_purchase": 3580,
+        "total_amount": 56279.2
     },
     "24": {
         "customer_id": 1401,
@@ -294,10 +294,10 @@
         "price": 205.7,
         "coupon_code": "WELCOME5",
         "city": "Unknown",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "10/28/2012",
-        "days_since_purchase": 4719,
-        "total_amount": 166493.58
+        "days_since_purchase": 4720,
+        "total_amount": 175256.4
     },
     "25": {
         "customer_id": 8480,
@@ -306,10 +306,10 @@
         "price": 47.45,
         "coupon_code": "HOLIDAY25",
         "city": "Montreal",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "1/30/2017",
-        "days_since_purchase": 3164,
-        "total_amount": 347298.41250000003
+        "days_since_purchase": 3165,
+        "total_amount": 463064.55000000005
     },
     "26": {
         "customer_id": 9178,
@@ -318,10 +318,10 @@
         "price": 47.45,
         "coupon_code": "HOLIDAY25",
         "city": "Vancouver",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "10/22/2014",
-        "days_since_purchase": 3995,
-        "total_amount": 296586.22500000003
+        "days_since_purchase": 3996,
+        "total_amount": 395448.30000000005
     },
     "27": {
         "customer_id": 5431,
@@ -330,10 +330,10 @@
         "price": 9.33,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Toronto",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "1/31/2012",
-        "days_since_purchase": 4990,
-        "total_amount": 21967.485
+        "days_since_purchase": 4991,
+        "total_amount": 43934.97
     },
     "28": {
         "customer_id": 7818,
@@ -344,7 +344,7 @@
         "city": "Calgary",
         "discount": 0,
         "purchase_date": "1/20/2016",
-        "days_since_purchase": 3540,
+        "days_since_purchase": 3541,
         "total_amount": 3815151.27
     },
     "29": {
@@ -356,7 +356,7 @@
         "city": "Edmonton",
         "discount": 0,
         "purchase_date": "1/1/2016",
-        "days_since_purchase": 3559,
+        "days_since_purchase": 3560,
         "total_amount": 697075.17
     },
     "30": {
@@ -366,10 +366,10 @@
         "price": 47.45,
         "coupon_code": "WELCOME5",
         "city": "Montreal",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "6/1/2017",
-        "days_since_purchase": 3042,
-        "total_amount": 107780.3025
+        "days_since_purchase": 3043,
+        "total_amount": 113452.95000000001
     },
     "31": {
         "customer_id": 5799,
@@ -380,7 +380,7 @@
         "city": "Ottawa",
         "discount": 0,
         "purchase_date": "6/30/2015",
-        "days_since_purchase": 3744,
+        "days_since_purchase": 3745,
         "total_amount": 4482929.640000001
     },
     "32": {
@@ -390,10 +390,10 @@
         "price": 9.33,
         "coupon_code": "WELCOME5",
         "city": "Ottawa",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "1/28/2014",
-        "days_since_purchase": 4262,
-        "total_amount": 2597.0054999999998
+        "days_since_purchase": 4263,
+        "total_amount": 2733.69
     },
     "33": {
         "customer_id": 6977,
@@ -402,10 +402,10 @@
         "price": 255.28,
         "coupon_code": "SAVE10",
         "city": "Edmonton",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "4/8/2014",
-        "days_since_purchase": 4192,
-        "total_amount": 1823541.624
+        "days_since_purchase": 4193,
+        "total_amount": 2026157.36
     },
     "34": {
         "customer_id": 5962,
@@ -414,10 +414,10 @@
         "price": 47.45,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Montreal",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "9/4/2010",
-        "days_since_purchase": 5504,
-        "total_amount": 169942.17500000002
+        "days_since_purchase": 5505,
+        "total_amount": 339884.35000000003
     },
     "35": {
         "customer_id": 1750,
@@ -426,10 +426,10 @@
         "price": 651.21,
         "coupon_code": "WELCOME5",
         "city": "Calgary",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "5/2/2010",
-        "days_since_purchase": 5629,
-        "total_amount": 1455063.624
+        "days_since_purchase": 5630,
+        "total_amount": 1531645.9200000002
     },
     "36": {
         "customer_id": 4170,
@@ -438,10 +438,10 @@
         "price": 651.21,
         "coupon_code": "WELCOME5",
         "city": "Vancouver",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "10/3/2013",
-        "days_since_purchase": 4379,
-        "total_amount": 6133909.7925
+        "days_since_purchase": 4380,
+        "total_amount": 6456747.15
     },
     "37": {
         "customer_id": 1301,
@@ -450,10 +450,10 @@
         "price": 154.06,
         "coupon_code": "WELCOME5",
         "city": "Montreal",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "3/6/2011",
-        "days_since_purchase": 5321,
-        "total_amount": 482099.958
+        "days_since_purchase": 5322,
+        "total_amount": 507473.64
     },
     "38": {
         "customer_id": 8304,
@@ -462,10 +462,10 @@
         "price": 255.28,
         "coupon_code": "SAVE10",
         "city": "Edmonton",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "8/7/2016",
-        "days_since_purchase": 3340,
-        "total_amount": 1829515.176
+        "days_since_purchase": 3341,
+        "total_amount": 2032794.64
     },
     "39": {
         "customer_id": 4891,
@@ -474,10 +474,10 @@
         "price": 651.21,
         "coupon_code": "HOLIDAY25",
         "city": "Unknown",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "1/11/2011",
-        "days_since_purchase": 5375,
-        "total_amount": 3138506.595
+        "days_since_purchase": 5376,
+        "total_amount": 4184675.4600000004
     },
     "40": {
         "customer_id": 8701,
@@ -488,7 +488,7 @@
         "city": "Ottawa",
         "discount": 0,
         "purchase_date": "5/21/2014",
-        "days_since_purchase": 4149,
+        "days_since_purchase": 4150,
         "total_amount": 2097547.41
     },
     "41": {
@@ -498,10 +498,10 @@
         "price": 47.45,
         "coupon_code": "WELCOME5",
         "city": "Montreal",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "8/3/2013",
-        "days_since_purchase": 4440,
-        "total_amount": 446853.2575
+        "days_since_purchase": 4441,
+        "total_amount": 470371.85000000003
     },
     "42": {
         "customer_id": 3370,
@@ -510,10 +510,10 @@
         "price": 421.89,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Edmonton",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "10/5/2011",
-        "days_since_purchase": 5108,
-        "total_amount": 21727.335
+        "days_since_purchase": 5109,
+        "total_amount": 43454.67
     },
     "43": {
         "customer_id": 3853,
@@ -522,10 +522,10 @@
         "price": 152.58,
         "coupon_code": "WELCOME5",
         "city": "Vancouver",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "11/15/2016",
-        "days_since_purchase": 3240,
-        "total_amount": 640538.469
+        "days_since_purchase": 3241,
+        "total_amount": 674251.02
     },
     "44": {
         "customer_id": 8808,
@@ -536,7 +536,7 @@
         "city": "Toronto",
         "discount": 0,
         "purchase_date": "4/3/2015",
-        "days_since_purchase": 3832,
+        "days_since_purchase": 3833,
         "total_amount": 3596632.83
     },
     "45": {
@@ -548,7 +548,7 @@
         "city": "Unknown",
         "discount": 0,
         "purchase_date": "3/22/2013",
-        "days_since_purchase": 4574,
+        "days_since_purchase": 4575,
         "total_amount": 147427.15000000002
     },
     "46": {
@@ -558,10 +558,10 @@
         "price": 421.89,
         "coupon_code": "SAVE10",
         "city": "Calgary",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "8/2/2010",
-        "days_since_purchase": 5537,
-        "total_amount": 3377820.096
+        "days_since_purchase": 5538,
+        "total_amount": 3753133.44
     },
     "47": {
         "customer_id": 9101,
@@ -570,10 +570,10 @@
         "price": 668.27,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "1/5/2012",
-        "days_since_purchase": 5016,
-        "total_amount": 548983.8049999999
+        "days_since_purchase": 5017,
+        "total_amount": 1097967.6099999999
     },
     "48": {
         "customer_id": 2130,
@@ -582,10 +582,10 @@
         "price": 81.73,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "8/26/2015",
-        "days_since_purchase": 3687,
-        "total_amount": 87246.77500000001
+        "days_since_purchase": 3688,
+        "total_amount": 174493.55000000002
     },
     "49": {
         "customer_id": 2455,
@@ -594,10 +594,10 @@
         "price": 421.89,
         "coupon_code": "HOLIDAY25",
         "city": "Edmonton",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "12/9/2016",
-        "days_since_purchase": 3216,
-        "total_amount": 2591142.9074999997
+        "days_since_purchase": 3217,
+        "total_amount": 3454857.21
     },
     "50": {
         "customer_id": 9082,
@@ -606,10 +606,10 @@
         "price": 154.06,
         "coupon_code": "WELCOME5",
         "city": "Montreal",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "5/17/2012",
-        "days_since_purchase": 4883,
-        "total_amount": 1412930.478
+        "days_since_purchase": 4884,
+        "total_amount": 1487295.24
     },
     "51": {
         "customer_id": 2971,
@@ -618,10 +618,10 @@
         "price": 154.06,
         "coupon_code": "SAVE10",
         "city": "Unknown",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "11/17/2010",
-        "days_since_purchase": 5430,
-        "total_amount": 472810.14
+        "days_since_purchase": 5431,
+        "total_amount": 525344.6
     },
     "52": {
         "customer_id": 1511,
@@ -630,10 +630,10 @@
         "price": 437.2,
         "coupon_code": "WELCOME5",
         "city": "Calgary",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "11/13/2014",
-        "days_since_purchase": 3973,
-        "total_amount": 3475565.12
+        "days_since_purchase": 3974,
+        "total_amount": 3658489.6
     },
     "53": {
         "customer_id": 9561,
@@ -642,10 +642,10 @@
         "price": 47.45,
         "coupon_code": "SAVE10",
         "city": "Calgary",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "6/16/2016",
-        "days_since_purchase": 3392,
-        "total_amount": 20071.350000000002
+        "days_since_purchase": 3393,
+        "total_amount": 22301.5
     },
     "54": {
         "customer_id": 6603,
@@ -654,10 +654,10 @@
         "price": 9.33,
         "coupon_code": "SAVE10",
         "city": "Toronto",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "5/31/2016",
-        "days_since_purchase": 3408,
-        "total_amount": 64572.93
+        "days_since_purchase": 3409,
+        "total_amount": 71747.7
     },
     "55": {
         "customer_id": 5777,
@@ -666,10 +666,10 @@
         "price": 152.58,
         "coupon_code": "HOLIDAY25",
         "city": "Unknown",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "10/6/2012",
-        "days_since_purchase": 4741,
-        "total_amount": 575951.355
+        "days_since_purchase": 4742,
+        "total_amount": 767935.14
     },
     "56": {
         "customer_id": 3840,
@@ -678,10 +678,10 @@
         "price": 651.21,
         "coupon_code": "HOLIDAY25",
         "city": "Ottawa",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "3/10/2012",
-        "days_since_purchase": 4951,
-        "total_amount": 4656965.5125
+        "days_since_purchase": 4952,
+        "total_amount": 6209287.350000001
     },
     "57": {
         "customer_id": 8648,
@@ -690,10 +690,10 @@
         "price": 651.21,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Edmonton",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "1/26/2011",
-        "days_since_purchase": 5360,
-        "total_amount": 1713659.115
+        "days_since_purchase": 5361,
+        "total_amount": 3427318.23
     },
     "58": {
         "customer_id": 2138,
@@ -702,10 +702,10 @@
         "price": 154.06,
         "coupon_code": "HOLIDAY25",
         "city": "Unknown",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "6/2/2014",
-        "days_since_purchase": 4137,
-        "total_amount": 960872.22
+        "days_since_purchase": 4138,
+        "total_amount": 1281162.96
     },
     "59": {
         "customer_id": 5844,
@@ -716,7 +716,7 @@
         "city": "Ottawa",
         "discount": 0,
         "purchase_date": "12/17/2016",
-        "days_since_purchase": 3208,
+        "days_since_purchase": 3209,
         "total_amount": 149075.52000000002
     },
     "60": {
@@ -726,10 +726,10 @@
         "price": 651.21,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Edmonton",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "6/27/2014",
-        "days_since_purchase": 4112,
-        "total_amount": 308999.145
+        "days_since_purchase": 4113,
+        "total_amount": 617998.29
     },
     "61": {
         "customer_id": 6209,
@@ -740,7 +740,7 @@
         "city": "Unknown",
         "discount": 0,
         "purchase_date": "3/17/2015",
-        "days_since_purchase": 3849,
+        "days_since_purchase": 3850,
         "total_amount": 3445573.1999999997
     },
     "62": {
@@ -750,10 +750,10 @@
         "price": 47.45,
         "coupon_code": "WELCOME5",
         "city": "Vancouver",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "4/3/2013",
-        "days_since_purchase": 4562,
-        "total_amount": 308600.565
+        "days_since_purchase": 4563,
+        "total_amount": 324842.7
     },
     "63": {
         "customer_id": 1182,
@@ -762,10 +762,10 @@
         "price": 109.28,
         "coupon_code": "WELCOME5",
         "city": "Unknown",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "3/8/2015",
-        "days_since_purchase": 3858,
-        "total_amount": 944414.152
+        "days_since_purchase": 3859,
+        "total_amount": 994120.16
     },
     "64": {
         "customer_id": 3391,
@@ -774,10 +774,10 @@
         "price": 81.73,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Montreal",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "6/21/2013",
-        "days_since_purchase": 4483,
-        "total_amount": 323691.66500000004
+        "days_since_purchase": 4484,
+        "total_amount": 647383.3300000001
     },
     "65": {
         "customer_id": 5401,
@@ -786,10 +786,10 @@
         "price": 651.21,
         "coupon_code": "SAVE10",
         "city": "Edmonton",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "1/6/2013",
-        "days_since_purchase": 4649,
-        "total_amount": 2131019.6040000003
+        "days_since_purchase": 4650,
+        "total_amount": 2367799.56
     },
     "66": {
         "customer_id": 6711,
@@ -800,7 +800,7 @@
         "city": "Unknown",
         "discount": 0,
         "purchase_date": "3/17/2012",
-        "days_since_purchase": 4944,
+        "days_since_purchase": 4945,
         "total_amount": 1766963.0
     },
     "67": {
@@ -810,10 +810,10 @@
         "price": 651.21,
         "coupon_code": "WELCOME5",
         "city": "Toronto",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "4/18/2014",
-        "days_since_purchase": 4182,
-        "total_amount": 1338138.8684999999
+        "days_since_purchase": 4183,
+        "total_amount": 1408567.23
     },
     "68": {
         "customer_id": 7066,
@@ -822,10 +822,10 @@
         "price": 255.28,
         "coupon_code": "SAVE10",
         "city": "Toronto",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "1/3/2016",
-        "days_since_purchase": 3557,
-        "total_amount": 1324750.0320000001
+        "days_since_purchase": 3558,
+        "total_amount": 1471944.48
     },
     "69": {
         "customer_id": 8020,
@@ -834,10 +834,10 @@
         "price": 651.21,
         "coupon_code": "SAVE10",
         "city": "Vancouver",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "5/12/2011",
-        "days_since_purchase": 5254,
-        "total_amount": 4595523.849
+        "days_since_purchase": 5255,
+        "total_amount": 5106137.61
     },
     "70": {
         "customer_id": 8392,
@@ -848,7 +848,7 @@
         "city": "Vancouver",
         "discount": 0,
         "purchase_date": "7/29/2010",
-        "days_since_purchase": 5541,
+        "days_since_purchase": 5542,
         "total_amount": 82682.46
     },
     "71": {
@@ -858,10 +858,10 @@
         "price": 255.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "8/2/2013",
-        "days_since_purchase": 4441,
-        "total_amount": 808599.4
+        "days_since_purchase": 4442,
+        "total_amount": 1617198.8
     },
     "72": {
         "customer_id": 6015,
@@ -870,10 +870,10 @@
         "price": 47.45,
         "coupon_code": "HOLIDAY25",
         "city": "Toronto",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "10/23/2013",
-        "days_since_purchase": 4359,
-        "total_amount": 348543.97500000003
+        "days_since_purchase": 4360,
+        "total_amount": 464725.30000000005
     },
     "73": {
         "customer_id": 1064,
@@ -882,10 +882,10 @@
         "price": 154.06,
         "coupon_code": "HOLIDAY25",
         "city": "Edmonton",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "2/5/2017",
-        "days_since_purchase": 3158,
-        "total_amount": 671085.36
+        "days_since_purchase": 3159,
+        "total_amount": 894780.48
     },
     "74": {
         "customer_id": 5588,
@@ -896,7 +896,7 @@
         "city": "Toronto",
         "discount": 0,
         "purchase_date": "3/20/2015",
-        "days_since_purchase": 3846,
+        "days_since_purchase": 3847,
         "total_amount": 1255122.75
     },
     "75": {
@@ -906,10 +906,10 @@
         "price": 81.73,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Montreal",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "5/6/2012",
-        "days_since_purchase": 4894,
-        "total_amount": 282990.125
+        "days_since_purchase": 4895,
+        "total_amount": 565980.25
     },
     "76": {
         "customer_id": 1585,
@@ -918,10 +918,10 @@
         "price": 421.89,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Edmonton",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "9/30/2013",
-        "days_since_purchase": 4382,
-        "total_amount": 1122016.455
+        "days_since_purchase": 4383,
+        "total_amount": 2244032.91
     },
     "77": {
         "customer_id": 7387,
@@ -930,10 +930,10 @@
         "price": 651.21,
         "coupon_code": "HOLIDAY25",
         "city": "Calgary",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "5/20/2014",
-        "days_since_purchase": 4150,
-        "total_amount": 1391961.375
+        "days_since_purchase": 4151,
+        "total_amount": 1855948.5
     },
     "78": {
         "customer_id": 6643,
@@ -942,10 +942,10 @@
         "price": 205.7,
         "coupon_code": "WELCOME5",
         "city": "Montreal",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "4/9/2010",
-        "days_since_purchase": 5652,
-        "total_amount": 1219585.015
+        "days_since_purchase": 5653,
+        "total_amount": 1283773.7
     },
     "79": {
         "customer_id": 5749,
@@ -954,10 +954,10 @@
         "price": 651.21,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Montreal",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "6/9/2017",
-        "days_since_purchase": 3034,
-        "total_amount": 3010869.435
+        "days_since_purchase": 3035,
+        "total_amount": 6021738.87
     },
     "80": {
         "customer_id": 7996,
@@ -968,7 +968,7 @@
         "city": "Vancouver",
         "discount": 0,
         "purchase_date": "2/8/2015",
-        "days_since_purchase": 3886,
+        "days_since_purchase": 3887,
         "total_amount": 1574222.0999999999
     },
     "81": {
@@ -980,7 +980,7 @@
         "city": "Calgary",
         "discount": 0,
         "purchase_date": "1/25/2010",
-        "days_since_purchase": 5726,
+        "days_since_purchase": 5727,
         "total_amount": 652889.8200000001
     },
     "82": {
@@ -990,10 +990,10 @@
         "price": 9.33,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Unknown",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "3/7/2010",
-        "days_since_purchase": 5685,
-        "total_amount": 18529.38
+        "days_since_purchase": 5686,
+        "total_amount": 37058.76
     },
     "83": {
         "customer_id": 8147,
@@ -1002,10 +1002,10 @@
         "price": 109.28,
         "coupon_code": "WELCOME5",
         "city": "Vancouver",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "1/3/2013",
-        "days_since_purchase": 4652,
-        "total_amount": 893959.5759999999
+        "days_since_purchase": 4653,
+        "total_amount": 941010.08
     },
     "84": {
         "customer_id": 9090,
@@ -1016,7 +1016,7 @@
         "city": "Unknown",
         "discount": 0,
         "purchase_date": "3/6/2017",
-        "days_since_purchase": 3129,
+        "days_since_purchase": 3130,
         "total_amount": 321791.22000000003
     },
     "85": {
@@ -1026,10 +1026,10 @@
         "price": 47.45,
         "coupon_code": "HOLIDAY25",
         "city": "Vancouver",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "1/9/2011",
-        "days_since_purchase": 5377,
-        "total_amount": 192457.2
+        "days_since_purchase": 5378,
+        "total_amount": 256609.6
     },
     "86": {
         "customer_id": 7495,
@@ -1038,10 +1038,10 @@
         "price": 205.7,
         "coupon_code": "HOLIDAY25",
         "city": "Ottawa",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "3/27/2014",
-        "days_since_purchase": 4204,
-        "total_amount": 228327.0
+        "days_since_purchase": 4205,
+        "total_amount": 304436.0
     },
     "87": {
         "customer_id": 8861,
@@ -1050,10 +1050,10 @@
         "price": 152.58,
         "coupon_code": "WELCOME5",
         "city": "Montreal",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "6/28/2013",
-        "days_since_purchase": 4476,
-        "total_amount": 48123.732
+        "days_since_purchase": 4477,
+        "total_amount": 50656.560000000005
     },
     "88": {
         "customer_id": 1104,
@@ -1062,10 +1062,10 @@
         "price": 47.45,
         "coupon_code": "SAVE10",
         "city": "Ottawa",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "9/4/2011",
-        "days_since_purchase": 5139,
-        "total_amount": 170777.295
+        "days_since_purchase": 5140,
+        "total_amount": 189752.55000000002
     },
     "89": {
         "customer_id": 9141,
@@ -1074,10 +1074,10 @@
         "price": 109.28,
         "coupon_code": "WELCOME5",
         "city": "Unknown",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "7/14/2016",
-        "days_since_purchase": 3364,
-        "total_amount": 160810.984
+        "days_since_purchase": 3365,
+        "total_amount": 169274.72
     },
     "90": {
         "customer_id": 4575,
@@ -1086,10 +1086,10 @@
         "price": 255.28,
         "coupon_code": "HOLIDAY25",
         "city": "Montreal",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "2/23/2014",
-        "days_since_purchase": 4236,
-        "total_amount": 780965.34
+        "days_since_purchase": 4237,
+        "total_amount": 1041287.12
     },
     "91": {
         "customer_id": 9423,
@@ -1098,10 +1098,10 @@
         "price": 109.28,
         "coupon_code": "HOLIDAY25",
         "city": "Unknown",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "8/7/2010",
-        "days_since_purchase": 5532,
-        "total_amount": 796733.1600000001
+        "days_since_purchase": 5533,
+        "total_amount": 1062310.8800000001
     },
     "92": {
         "customer_id": 1171,
@@ -1110,10 +1110,10 @@
         "price": 668.27,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Calgary",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "1/14/2013",
-        "days_since_purchase": 4641,
-        "total_amount": 2885255.725
+        "days_since_purchase": 4642,
+        "total_amount": 5770511.45
     },
     "93": {
         "customer_id": 5346,
@@ -1122,10 +1122,10 @@
         "price": 81.73,
         "coupon_code": "WELCOME5",
         "city": "Toronto",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "9/30/2010",
-        "days_since_purchase": 5478,
-        "total_amount": 622235.0090000001
+        "days_since_purchase": 5479,
+        "total_amount": 654984.2200000001
     },
     "94": {
         "customer_id": 3232,
@@ -1134,10 +1134,10 @@
         "price": 205.7,
         "coupon_code": "HOLIDAY25",
         "city": "Montreal",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "10/13/2016",
-        "days_since_purchase": 3273,
-        "total_amount": 1092421.275
+        "days_since_purchase": 3274,
+        "total_amount": 1456561.7
     },
     "95": {
         "customer_id": 1415,
@@ -1148,7 +1148,7 @@
         "city": "Calgary",
         "discount": 0,
         "purchase_date": "3/16/2011",
-        "days_since_purchase": 5311,
+        "days_since_purchase": 5312,
         "total_amount": 319044.78
     },
     "96": {
@@ -1158,10 +1158,10 @@
         "price": 9.33,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Edmonton",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "12/26/2012",
-        "days_since_purchase": 4660,
-        "total_amount": 6209.115
+        "days_since_purchase": 4661,
+        "total_amount": 12418.23
     },
     "97": {
         "customer_id": 9545,
@@ -1170,10 +1170,10 @@
         "price": 109.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Toronto",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "9/2/2015",
-        "days_since_purchase": 3680,
-        "total_amount": 6392.88
+        "days_since_purchase": 3681,
+        "total_amount": 12785.76
     },
     "98": {
         "customer_id": 2197,
@@ -1182,10 +1182,10 @@
         "price": 668.27,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Montreal",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "11/11/2013",
-        "days_since_purchase": 4340,
-        "total_amount": 1937314.73
+        "days_since_purchase": 4341,
+        "total_amount": 3874629.46
     },
     "99": {
         "customer_id": 9426,
@@ -1194,10 +1194,10 @@
         "price": 154.06,
         "coupon_code": "HOLIDAY25",
         "city": "Vancouver",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "8/4/2014",
-        "days_since_purchase": 4074,
-        "total_amount": 318326.475
+        "days_since_purchase": 4075,
+        "total_amount": 424435.3
     },
     "100": {
         "customer_id": 3306,
@@ -1208,7 +1208,7 @@
         "city": "Vancouver",
         "discount": 0,
         "purchase_date": "10/21/2010",
-        "days_since_purchase": 5457,
+        "days_since_purchase": 5458,
         "total_amount": 808453.4400000001
     },
     "101": {
@@ -1218,10 +1218,10 @@
         "price": 154.06,
         "coupon_code": "HOLIDAY25",
         "city": "Toronto",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "6/13/2015",
-        "days_since_purchase": 3761,
-        "total_amount": 366277.65
+        "days_since_purchase": 3762,
+        "total_amount": 488370.2
     },
     "102": {
         "customer_id": 5272,
@@ -1230,10 +1230,10 @@
         "price": 152.58,
         "coupon_code": "WELCOME5",
         "city": "Unknown",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "3/29/2012",
-        "days_since_purchase": 4932,
-        "total_amount": 803608.3439999999
+        "days_since_purchase": 4933,
+        "total_amount": 845903.52
     },
     "103": {
         "customer_id": 6071,
@@ -1242,10 +1242,10 @@
         "price": 154.06,
         "coupon_code": "WELCOME5",
         "city": "Edmonton",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "6/22/2012",
-        "days_since_purchase": 4847,
-        "total_amount": 1028157.9249999999
+        "days_since_purchase": 4848,
+        "total_amount": 1082271.5
     },
     "104": {
         "customer_id": 5065,
@@ -1254,10 +1254,10 @@
         "price": 81.73,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "5/10/2013",
-        "days_since_purchase": 4525,
-        "total_amount": 87818.88500000001
+        "days_since_purchase": 4526,
+        "total_amount": 175637.77000000002
     },
     "105": {
         "customer_id": 2375,
@@ -1266,10 +1266,10 @@
         "price": 81.73,
         "coupon_code": "WELCOME5",
         "city": "Toronto",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "12/10/2016",
-        "days_since_purchase": 3215,
-        "total_amount": 192866.454
+        "days_since_purchase": 3216,
+        "total_amount": 203017.32
     },
     "106": {
         "customer_id": 2098,
@@ -1278,10 +1278,10 @@
         "price": 152.58,
         "coupon_code": "SAVE10",
         "city": "Calgary",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "3/20/2011",
-        "days_since_purchase": 5307,
-        "total_amount": 223697.538
+        "days_since_purchase": 5308,
+        "total_amount": 248552.82
     },
     "107": {
         "customer_id": 1850,
@@ -1292,7 +1292,7 @@
         "city": "Ottawa",
         "discount": 0,
         "purchase_date": "9/22/2011",
-        "days_since_purchase": 5121,
+        "days_since_purchase": 5122,
         "total_amount": 93123.59999999999
     },
     "108": {
@@ -1304,7 +1304,7 @@
         "city": "Toronto",
         "discount": 0,
         "purchase_date": "5/11/2012",
-        "days_since_purchase": 4889,
+        "days_since_purchase": 4890,
         "total_amount": 42562.65
     },
     "109": {
@@ -1314,10 +1314,10 @@
         "price": 109.28,
         "coupon_code": "HOLIDAY25",
         "city": "Edmonton",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "11/15/2011",
-        "days_since_purchase": 5067,
-        "total_amount": 276533.04000000004
+        "days_since_purchase": 5068,
+        "total_amount": 368710.72000000003
     },
     "110": {
         "customer_id": 2624,
@@ -1326,10 +1326,10 @@
         "price": 47.45,
         "coupon_code": "SAVE10",
         "city": "Montreal",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "1/27/2010",
-        "days_since_purchase": 5724,
-        "total_amount": 400017.73500000004
+        "days_since_purchase": 5725,
+        "total_amount": 444464.15
     },
     "111": {
         "customer_id": 8394,
@@ -1338,10 +1338,10 @@
         "price": 255.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "8/17/2011",
-        "days_since_purchase": 5157,
-        "total_amount": 974148.48
+        "days_since_purchase": 5158,
+        "total_amount": 1948296.96
     },
     "112": {
         "customer_id": 1957,
@@ -1352,7 +1352,7 @@
         "city": "Calgary",
         "discount": 0,
         "purchase_date": "9/6/2014",
-        "days_since_purchase": 4041,
+        "days_since_purchase": 4042,
         "total_amount": 424867.30000000005
     },
     "113": {
@@ -1362,10 +1362,10 @@
         "price": 205.7,
         "coupon_code": "SAVE10",
         "city": "Edmonton",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "9/3/2014",
-        "days_since_purchase": 4044,
-        "total_amount": 212899.5
+        "days_since_purchase": 4045,
+        "total_amount": 236555.0
     },
     "114": {
         "customer_id": 9852,
@@ -1374,10 +1374,10 @@
         "price": 651.21,
         "coupon_code": "HOLIDAY25",
         "city": "Montreal",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "9/5/2015",
-        "days_since_purchase": 3677,
-        "total_amount": 1988306.9325
+        "days_since_purchase": 3678,
+        "total_amount": 2651075.91
     },
     "115": {
         "customer_id": 5070,
@@ -1388,7 +1388,7 @@
         "city": "Calgary",
         "discount": 0,
         "purchase_date": "6/20/2011",
-        "days_since_purchase": 5215,
+        "days_since_purchase": 5216,
         "total_amount": 1172756.32
     },
     "116": {
@@ -1398,10 +1398,10 @@
         "price": 152.58,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "1/12/2012",
-        "days_since_purchase": 5009,
-        "total_amount": 124505.28000000001
+        "days_since_purchase": 5010,
+        "total_amount": 249010.56000000003
     },
     "117": {
         "customer_id": 1186,
@@ -1412,7 +1412,7 @@
         "city": "Edmonton",
         "discount": 0,
         "purchase_date": "1/23/2017",
-        "days_since_purchase": 3171,
+        "days_since_purchase": 3172,
         "total_amount": 753140.29
     },
     "118": {
@@ -1424,7 +1424,7 @@
         "city": "Vancouver",
         "discount": 0,
         "purchase_date": "3/4/2012",
-        "days_since_purchase": 4957,
+        "days_since_purchase": 4958,
         "total_amount": 162071.12
     },
     "119": {
@@ -1436,7 +1436,7 @@
         "city": "Edmonton",
         "discount": 0,
         "purchase_date": "7/18/2010",
-        "days_since_purchase": 5552,
+        "days_since_purchase": 5553,
         "total_amount": 2705580.57
     },
     "120": {
@@ -1448,7 +1448,7 @@
         "city": "Calgary",
         "discount": 0,
         "purchase_date": "4/12/2011",
-        "days_since_purchase": 5284,
+        "days_since_purchase": 5285,
         "total_amount": 647702.1000000001
     },
     "121": {
@@ -1458,10 +1458,10 @@
         "price": 152.58,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Montreal",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "10/3/2010",
-        "days_since_purchase": 5475,
-        "total_amount": 657238.3500000001
+        "days_since_purchase": 5476,
+        "total_amount": 1314476.7000000002
     },
     "122": {
         "customer_id": 1712,
@@ -1470,10 +1470,10 @@
         "price": 255.28,
         "coupon_code": "WELCOME5",
         "city": "Montreal",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "12/29/2013",
-        "days_since_purchase": 4292,
-        "total_amount": 1363909.984
+        "days_since_purchase": 4293,
+        "total_amount": 1435694.72
     },
     "123": {
         "customer_id": 6608,
@@ -1482,10 +1482,10 @@
         "price": 109.28,
         "coupon_code": "WELCOME5",
         "city": "Ottawa",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "9/19/2015",
-        "days_since_purchase": 3663,
-        "total_amount": 871950.5839999999
+        "days_since_purchase": 3664,
+        "total_amount": 917842.72
     },
     "124": {
         "customer_id": 8617,
@@ -1494,10 +1494,10 @@
         "price": 9.33,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Montreal",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "9/17/2011",
-        "days_since_purchase": 5126,
-        "total_amount": 9815.16
+        "days_since_purchase": 5127,
+        "total_amount": 19630.32
     },
     "125": {
         "customer_id": 2382,
@@ -1506,10 +1506,10 @@
         "price": 152.58,
         "coupon_code": "WELCOME5",
         "city": "Calgary",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "3/11/2010",
-        "days_since_purchase": 5681,
-        "total_amount": 1294267.479
+        "days_since_purchase": 5682,
+        "total_amount": 1362386.82
     },
     "126": {
         "customer_id": 3218,
@@ -1518,10 +1518,10 @@
         "price": 668.27,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Vancouver",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "11/10/2012",
-        "days_since_purchase": 4706,
-        "total_amount": 1035150.23
+        "days_since_purchase": 4707,
+        "total_amount": 2070300.46
     },
     "127": {
         "customer_id": 7921,
@@ -1530,10 +1530,10 @@
         "price": 109.28,
         "coupon_code": "HOLIDAY25",
         "city": "Toronto",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "2/16/2011",
-        "days_since_purchase": 5339,
-        "total_amount": 480859.32
+        "days_since_purchase": 5340,
+        "total_amount": 641145.76
     },
     "128": {
         "customer_id": 5120,
@@ -1544,7 +1544,7 @@
         "city": "Toronto",
         "discount": 0,
         "purchase_date": "8/13/2012",
-        "days_since_purchase": 4795,
+        "days_since_purchase": 4796,
         "total_amount": 228218.4
     },
     "129": {
@@ -1554,10 +1554,10 @@
         "price": 152.58,
         "coupon_code": "HOLIDAY25",
         "city": "Calgary",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "8/28/2014",
-        "days_since_purchase": 4050,
-        "total_amount": 844415.865
+        "days_since_purchase": 4051,
+        "total_amount": 1125887.82
     },
     "130": {
         "customer_id": 6781,
@@ -1566,10 +1566,10 @@
         "price": 651.21,
         "coupon_code": "SAVE10",
         "city": "Toronto",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "8/19/2015",
-        "days_since_purchase": 3694,
-        "total_amount": 5150550.132
+        "days_since_purchase": 3695,
+        "total_amount": 5722833.48
     },
     "131": {
         "customer_id": 6150,
@@ -1578,10 +1578,10 @@
         "price": 47.45,
         "coupon_code": "HOLIDAY25",
         "city": "Ottawa",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "3/20/2011",
-        "days_since_purchase": 5307,
-        "total_amount": 146940.7875
+        "days_since_purchase": 5308,
+        "total_amount": 195921.05000000002
     },
     "132": {
         "customer_id": 4402,
@@ -1590,10 +1590,10 @@
         "price": 47.45,
         "coupon_code": "HOLIDAY25",
         "city": "Toronto",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "4/16/2013",
-        "days_since_purchase": 4549,
-        "total_amount": 171211.46250000002
+        "days_since_purchase": 4550,
+        "total_amount": 228281.95
     },
     "133": {
         "customer_id": 6561,
@@ -1602,10 +1602,10 @@
         "price": 255.28,
         "coupon_code": "SAVE10",
         "city": "Edmonton",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "11/13/2015",
-        "days_since_purchase": 3608,
-        "total_amount": 2131868.808
+        "days_since_purchase": 3609,
+        "total_amount": 2368743.12
     },
     "134": {
         "customer_id": 2840,
@@ -1614,10 +1614,10 @@
         "price": 668.27,
         "coupon_code": "WELCOME5",
         "city": "Ottawa",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "1/10/2014",
-        "days_since_purchase": 4280,
-        "total_amount": 5082661.1389999995
+        "days_since_purchase": 4281,
+        "total_amount": 5350169.62
     },
     "135": {
         "customer_id": 5174,
@@ -1628,7 +1628,7 @@
         "city": "Unknown",
         "discount": 0,
         "purchase_date": "4/9/2015",
-        "days_since_purchase": 3826,
+        "days_since_purchase": 3827,
         "total_amount": 5532680.16
     },
     "136": {
@@ -1638,10 +1638,10 @@
         "price": 668.27,
         "coupon_code": "SAVE10",
         "city": "Montreal",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "1/7/2013",
-        "days_since_purchase": 4648,
-        "total_amount": 171411.25499999998
+        "days_since_purchase": 4649,
+        "total_amount": 190456.94999999998
     },
     "137": {
         "customer_id": 5720,
@@ -1650,10 +1650,10 @@
         "price": 81.73,
         "coupon_code": "HOLIDAY25",
         "city": "Montreal",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "2/12/2013",
-        "days_since_purchase": 4612,
-        "total_amount": 609419.745
+        "days_since_purchase": 4613,
+        "total_amount": 812559.66
     },
     "138": {
         "customer_id": 8169,
@@ -1664,7 +1664,7 @@
         "city": "Unknown",
         "discount": 0,
         "purchase_date": "11/28/2014",
-        "days_since_purchase": 3958,
+        "days_since_purchase": 3959,
         "total_amount": 2558340.96
     },
     "139": {
@@ -1674,10 +1674,10 @@
         "price": 421.89,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Calgary",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "1/3/2015",
-        "days_since_purchase": 3922,
-        "total_amount": 903055.5449999999
+        "days_since_purchase": 3923,
+        "total_amount": 1806111.0899999999
     },
     "140": {
         "customer_id": 8242,
@@ -1686,10 +1686,10 @@
         "price": 81.73,
         "coupon_code": "WELCOME5",
         "city": "Ottawa",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "2/3/2011",
-        "days_since_purchase": 5352,
-        "total_amount": 175163.736
+        "days_since_purchase": 5353,
+        "total_amount": 184382.88
     },
     "141": {
         "customer_id": 1769,
@@ -1700,7 +1700,7 @@
         "city": "Calgary",
         "discount": 0,
         "purchase_date": "4/9/2013",
-        "days_since_purchase": 4556,
+        "days_since_purchase": 4557,
         "total_amount": 713921.8200000001
     },
     "142": {
@@ -1712,7 +1712,7 @@
         "city": "Montreal",
         "discount": 0,
         "purchase_date": "7/26/2017",
-        "days_since_purchase": 2987,
+        "days_since_purchase": 2988,
         "total_amount": 3617830.0
     },
     "143": {
@@ -1722,10 +1722,10 @@
         "price": 9.33,
         "coupon_code": "SAVE10",
         "city": "Edmonton",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "4/15/2017",
-        "days_since_purchase": 3089,
-        "total_amount": 57082.806000000004
+        "days_since_purchase": 3090,
+        "total_amount": 63425.340000000004
     },
     "144": {
         "customer_id": 3329,
@@ -1734,10 +1734,10 @@
         "price": 255.28,
         "coupon_code": "WELCOME5",
         "city": "Toronto",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "5/16/2014",
-        "days_since_purchase": 4154,
-        "total_amount": 1463584.06
+        "days_since_purchase": 4155,
+        "total_amount": 1540614.8
     },
     "145": {
         "customer_id": 4335,
@@ -1746,10 +1746,10 @@
         "price": 255.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "8/12/2015",
-        "days_since_purchase": 3701,
-        "total_amount": 1123614.92
+        "days_since_purchase": 3702,
+        "total_amount": 2247229.84
     },
     "146": {
         "customer_id": 4343,
@@ -1758,10 +1758,10 @@
         "price": 152.58,
         "coupon_code": "WELCOME5",
         "city": "Vancouver",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "9/20/2013",
-        "days_since_purchase": 4392,
-        "total_amount": 1442407.401
+        "days_since_purchase": 4393,
+        "total_amount": 1518323.58
     },
     "147": {
         "customer_id": 5546,
@@ -1770,10 +1770,10 @@
         "price": 205.7,
         "coupon_code": "SAVE10",
         "city": "Calgary",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "10/31/2013",
-        "days_since_purchase": 4351,
-        "total_amount": 251406.53999999998
+        "days_since_purchase": 4352,
+        "total_amount": 279340.6
     },
     "148": {
         "customer_id": 8981,
@@ -1782,10 +1782,10 @@
         "price": 205.7,
         "coupon_code": "SAVE10",
         "city": "Ottawa",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "7/30/2014",
-        "days_since_purchase": 4079,
-        "total_amount": 1284061.68
+        "days_since_purchase": 4080,
+        "total_amount": 1426735.2
     },
     "149": {
         "customer_id": 6384,
@@ -1796,7 +1796,7 @@
         "city": "Unknown",
         "discount": 0,
         "purchase_date": "11/12/2011",
-        "days_since_purchase": 5070,
+        "days_since_purchase": 5071,
         "total_amount": 71159.91
     },
     "150": {
@@ -1806,10 +1806,10 @@
         "price": 152.58,
         "coupon_code": "WELCOME5",
         "city": "Calgary",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "3/25/2010",
-        "days_since_purchase": 5667,
-        "total_amount": 928411.155
+        "days_since_purchase": 5668,
+        "total_amount": 977274.9
     },
     "151": {
         "customer_id": 6187,
@@ -1820,7 +1820,7 @@
         "city": "Toronto",
         "discount": 0,
         "purchase_date": "7/4/2011",
-        "days_since_purchase": 5201,
+        "days_since_purchase": 5202,
         "total_amount": 673461.7999999999
     },
     "152": {
@@ -1830,10 +1830,10 @@
         "price": 255.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Unknown",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "1/1/2011",
-        "days_since_purchase": 5385,
-        "total_amount": 34590.44
+        "days_since_purchase": 5386,
+        "total_amount": 69180.88
     },
     "153": {
         "customer_id": 5184,
@@ -1842,10 +1842,10 @@
         "price": 109.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Edmonton",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "6/16/2016",
-        "days_since_purchase": 3392,
-        "total_amount": 353138.32
+        "days_since_purchase": 3393,
+        "total_amount": 706276.64
     },
     "154": {
         "customer_id": 1855,
@@ -1854,10 +1854,10 @@
         "price": 9.33,
         "coupon_code": "WELCOME5",
         "city": "Toronto",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "12/17/2013",
-        "days_since_purchase": 4304,
-        "total_amount": 26138.4615
+        "days_since_purchase": 4305,
+        "total_amount": 27514.170000000002
     },
     "155": {
         "customer_id": 4017,
@@ -1868,7 +1868,7 @@
         "city": "Montreal",
         "discount": 0,
         "purchase_date": "3/1/2017",
-        "days_since_purchase": 3134,
+        "days_since_purchase": 3135,
         "total_amount": 3315633.51
     },
     "156": {
@@ -1880,7 +1880,7 @@
         "city": "Edmonton",
         "discount": 0,
         "purchase_date": "7/2/2010",
-        "days_since_purchase": 5568,
+        "days_since_purchase": 5569,
         "total_amount": 345393.84
     },
     "157": {
@@ -1890,10 +1890,10 @@
         "price": 152.58,
         "coupon_code": "SAVE10",
         "city": "Unknown",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "7/16/2013",
-        "days_since_purchase": 4458,
-        "total_amount": 85688.92800000001
+        "days_since_purchase": 4459,
+        "total_amount": 95209.92000000001
     },
     "158": {
         "customer_id": 8190,
@@ -1902,10 +1902,10 @@
         "price": 651.21,
         "coupon_code": "SAVE10",
         "city": "Vancouver",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "8/16/2016",
-        "days_since_purchase": 3331,
-        "total_amount": 2870077.833
+        "days_since_purchase": 3332,
+        "total_amount": 3188975.37
     },
     "159": {
         "customer_id": 7557,
@@ -1916,7 +1916,7 @@
         "city": "Unknown",
         "discount": 0,
         "purchase_date": "12/16/2014",
-        "days_since_purchase": 3940,
+        "days_since_purchase": 3941,
         "total_amount": 178881.36
     },
     "160": {
@@ -1926,10 +1926,10 @@
         "price": 651.21,
         "coupon_code": "WELCOME5",
         "city": "Edmonton",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "5/14/2012",
-        "days_since_purchase": 4886,
-        "total_amount": 3398860.353
+        "days_since_purchase": 4887,
+        "total_amount": 3577747.74
     },
     "161": {
         "customer_id": 4280,
@@ -1938,10 +1938,10 @@
         "price": 668.27,
         "coupon_code": "WELCOME5",
         "city": "Unknown",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "7/18/2017",
-        "days_since_purchase": 2995,
-        "total_amount": 3442826.7994999997
+        "days_since_purchase": 2996,
+        "total_amount": 3624028.21
     },
     "162": {
         "customer_id": 3566,
@@ -1950,10 +1950,10 @@
         "price": 81.73,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "7/9/2017",
-        "days_since_purchase": 3004,
-        "total_amount": 308898.53500000003
+        "days_since_purchase": 3005,
+        "total_amount": 617797.0700000001
     },
     "163": {
         "customer_id": 9743,
@@ -1962,10 +1962,10 @@
         "price": 651.21,
         "coupon_code": "WELCOME5",
         "city": "Ottawa",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "9/30/2011",
-        "days_since_purchase": 5113,
-        "total_amount": 3886974.8085
+        "days_since_purchase": 5114,
+        "total_amount": 4091552.43
     },
     "164": {
         "customer_id": 1690,
@@ -1974,10 +1974,10 @@
         "price": 154.06,
         "coupon_code": "WELCOME5",
         "city": "Calgary",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "11/24/2015",
-        "days_since_purchase": 3597,
-        "total_amount": 1171734.142
+        "days_since_purchase": 3598,
+        "total_amount": 1233404.36
     },
     "165": {
         "customer_id": 9802,
@@ -1986,10 +1986,10 @@
         "price": 651.21,
         "coupon_code": "SAVE10",
         "city": "Unknown",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "8/14/2012",
-        "days_since_purchase": 4794,
-        "total_amount": 3616169.1300000004
+        "days_since_purchase": 4795,
+        "total_amount": 4017965.7
     },
     "166": {
         "customer_id": 1376,
@@ -1998,10 +1998,10 @@
         "price": 109.28,
         "coupon_code": "SAVE10",
         "city": "Ottawa",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "12/6/2015",
-        "days_since_purchase": 3585,
-        "total_amount": 614601.648
+        "days_since_purchase": 3586,
+        "total_amount": 682890.72
     },
     "167": {
         "customer_id": 8989,
@@ -2010,10 +2010,10 @@
         "price": 154.06,
         "coupon_code": "SAVE10",
         "city": "Unknown",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "5/25/2014",
-        "days_since_purchase": 4145,
-        "total_amount": 103713.19200000001
+        "days_since_purchase": 4146,
+        "total_amount": 115236.88
     },
     "168": {
         "customer_id": 1602,
@@ -2022,10 +2022,10 @@
         "price": 47.45,
         "coupon_code": "HOLIDAY25",
         "city": "Vancouver",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "10/18/2012",
-        "days_since_purchase": 4729,
-        "total_amount": 149574.2625
+        "days_since_purchase": 4730,
+        "total_amount": 199432.35
     },
     "169": {
         "customer_id": 9607,
@@ -2034,10 +2034,10 @@
         "price": 651.21,
         "coupon_code": "WELCOME5",
         "city": "Ottawa",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "3/13/2013",
-        "days_since_purchase": 4583,
-        "total_amount": 5060552.91
+        "days_since_purchase": 4584,
+        "total_amount": 5326897.800000001
     },
     "170": {
         "customer_id": 2428,
@@ -2046,10 +2046,10 @@
         "price": 651.21,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Unknown",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "2/23/2011",
-        "days_since_purchase": 5332,
-        "total_amount": 2044799.4000000001
+        "days_since_purchase": 5333,
+        "total_amount": 4089598.8000000003
     },
     "171": {
         "customer_id": 8321,
@@ -2058,10 +2058,10 @@
         "price": 668.27,
         "coupon_code": "SAVE10",
         "city": "Ottawa",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "8/15/2014",
-        "days_since_purchase": 4063,
-        "total_amount": 5491776.033
+        "days_since_purchase": 4064,
+        "total_amount": 6101973.37
     },
     "172": {
         "customer_id": 3375,
@@ -2070,10 +2070,10 @@
         "price": 81.73,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Unknown",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "7/6/2017",
-        "days_since_purchase": 3007,
-        "total_amount": 383967.54000000004
+        "days_since_purchase": 3008,
+        "total_amount": 767935.0800000001
     },
     "173": {
         "customer_id": 6177,
@@ -2082,10 +2082,10 @@
         "price": 109.28,
         "coupon_code": "WELCOME5",
         "city": "Montreal",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "12/31/2010",
-        "days_since_purchase": 5386,
-        "total_amount": 702315.2399999999
+        "days_since_purchase": 5387,
+        "total_amount": 739279.2
     },
     "174": {
         "customer_id": 9373,
@@ -2094,10 +2094,10 @@
         "price": 81.73,
         "coupon_code": "SAVE10",
         "city": "Ottawa",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "1/13/2010",
-        "days_since_purchase": 5738,
-        "total_amount": 218022.948
+        "days_since_purchase": 5739,
+        "total_amount": 242247.72
     },
     "175": {
         "customer_id": 7132,
@@ -2106,10 +2106,10 @@
         "price": 651.21,
         "coupon_code": "SAVE10",
         "city": "Montreal",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "9/17/2011",
-        "days_since_purchase": 5126,
-        "total_amount": 3953756.3940000003
+        "days_since_purchase": 5127,
+        "total_amount": 4393062.66
     },
     "176": {
         "customer_id": 6975,
@@ -2118,10 +2118,10 @@
         "price": 651.21,
         "coupon_code": "WELCOME5",
         "city": "Calgary",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "3/8/2014",
-        "days_since_purchase": 4223,
-        "total_amount": 5504743.251
+        "days_since_purchase": 4224,
+        "total_amount": 5794466.58
     },
     "177": {
         "customer_id": 3609,
@@ -2130,10 +2130,10 @@
         "price": 109.28,
         "coupon_code": "WELCOME5",
         "city": "Toronto",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "11/18/2012",
-        "days_since_purchase": 4698,
-        "total_amount": 751316.392
+        "days_since_purchase": 4699,
+        "total_amount": 790859.36
     },
     "178": {
         "customer_id": 3620,
@@ -2142,10 +2142,10 @@
         "price": 81.73,
         "coupon_code": "HOLIDAY25",
         "city": "Unknown",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "11/18/2011",
-        "days_since_purchase": 5064,
-        "total_amount": 98811.57
+        "days_since_purchase": 5065,
+        "total_amount": 131748.76
     },
     "179": {
         "customer_id": 5019,
@@ -2154,10 +2154,10 @@
         "price": 47.45,
         "coupon_code": "HOLIDAY25",
         "city": "Vancouver",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "7/12/2012",
-        "days_since_purchase": 4827,
-        "total_amount": 316871.10000000003
+        "days_since_purchase": 4828,
+        "total_amount": 422494.80000000005
     },
     "180": {
         "customer_id": 9939,
@@ -2166,10 +2166,10 @@
         "price": 81.73,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Toronto",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "3/30/2017",
-        "days_since_purchase": 3105,
-        "total_amount": 327819.03
+        "days_since_purchase": 3106,
+        "total_amount": 655638.06
     },
     "181": {
         "customer_id": 5053,
@@ -2178,10 +2178,10 @@
         "price": 81.73,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Toronto",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "7/26/2010",
-        "days_since_purchase": 5544,
-        "total_amount": 200606.285
+        "days_since_purchase": 5545,
+        "total_amount": 401212.57
     },
     "182": {
         "customer_id": 9196,
@@ -2190,10 +2190,10 @@
         "price": 81.73,
         "coupon_code": "WELCOME5",
         "city": "Montreal",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "12/24/2015",
-        "days_since_purchase": 3567,
-        "total_amount": 585354.3465
+        "days_since_purchase": 3568,
+        "total_amount": 616162.47
     },
     "183": {
         "customer_id": 7383,
@@ -2202,10 +2202,10 @@
         "price": 651.21,
         "coupon_code": "HOLIDAY25",
         "city": "Edmonton",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "5/15/2016",
-        "days_since_purchase": 3424,
-        "total_amount": 447869.67750000005
+        "days_since_purchase": 3425,
+        "total_amount": 597159.5700000001
     },
     "184": {
         "customer_id": 6695,
@@ -2214,10 +2214,10 @@
         "price": 421.89,
         "coupon_code": "WELCOME5",
         "city": "Toronto",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "11/3/2010",
-        "days_since_purchase": 5444,
-        "total_amount": 833253.8444999999
+        "days_since_purchase": 5445,
+        "total_amount": 877109.3099999999
     },
     "185": {
         "customer_id": 7501,
@@ -2226,10 +2226,10 @@
         "price": 421.89,
         "coupon_code": "WELCOME5",
         "city": "Unknown",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "12/1/2010",
-        "days_since_purchase": 5416,
-        "total_amount": 2041251.4815
+        "days_since_purchase": 5417,
+        "total_amount": 2148685.77
     },
     "186": {
         "customer_id": 4985,
@@ -2238,10 +2238,10 @@
         "price": 152.58,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Montreal",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "1/16/2014",
-        "days_since_purchase": 4274,
-        "total_amount": 462012.24000000005
+        "days_since_purchase": 4275,
+        "total_amount": 924024.4800000001
     },
     "187": {
         "customer_id": 3279,
@@ -2250,10 +2250,10 @@
         "price": 255.28,
         "coupon_code": "SAVE10",
         "city": "Montreal",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "12/11/2014",
-        "days_since_purchase": 3945,
-        "total_amount": 1860761.448
+        "days_since_purchase": 3946,
+        "total_amount": 2067512.72
     },
     "188": {
         "customer_id": 4088,
@@ -2264,7 +2264,7 @@
         "city": "Toronto",
         "discount": 0,
         "purchase_date": "12/24/2016",
-        "days_since_purchase": 3201,
+        "days_since_purchase": 3202,
         "total_amount": 2791084.8
     },
     "189": {
@@ -2274,10 +2274,10 @@
         "price": 668.27,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "3/21/2013",
-        "days_since_purchase": 4575,
-        "total_amount": 1036152.635
+        "days_since_purchase": 4576,
+        "total_amount": 2072305.27
     },
     "190": {
         "customer_id": 4227,
@@ -2288,7 +2288,7 @@
         "city": "Calgary",
         "discount": 0,
         "purchase_date": "12/8/2012",
-        "days_since_purchase": 4678,
+        "days_since_purchase": 4679,
         "total_amount": 202363.48
     },
     "191": {
@@ -2298,10 +2298,10 @@
         "price": 255.28,
         "coupon_code": "SAVE10",
         "city": "Toronto",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "2/13/2015",
-        "days_since_purchase": 3881,
-        "total_amount": 1324060.7759999998
+        "days_since_purchase": 3882,
+        "total_amount": 1471178.64
     },
     "192": {
         "customer_id": 2579,
@@ -2310,10 +2310,10 @@
         "price": 47.45,
         "coupon_code": "HOLIDAY25",
         "city": "Vancouver",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "3/28/2012",
-        "days_since_purchase": 4933,
-        "total_amount": 222315.11250000002
+        "days_since_purchase": 4934,
+        "total_amount": 296420.15
     },
     "193": {
         "customer_id": 9992,
@@ -2324,7 +2324,7 @@
         "city": "Edmonton",
         "discount": 0,
         "purchase_date": "10/7/2016",
-        "days_since_purchase": 3279,
+        "days_since_purchase": 3280,
         "total_amount": 654292.8200000001
     },
     "194": {
@@ -2334,10 +2334,10 @@
         "price": 47.45,
         "coupon_code": "HOLIDAY25",
         "city": "Edmonton",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "12/15/2011",
-        "days_since_purchase": 5037,
-        "total_amount": 75125.21250000001
+        "days_since_purchase": 5038,
+        "total_amount": 100166.95000000001
     },
     "195": {
         "customer_id": 1339,
@@ -2346,10 +2346,10 @@
         "price": 668.27,
         "coupon_code": "WELCOME5",
         "city": "Montreal",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "3/8/2016",
-        "days_since_purchase": 3492,
-        "total_amount": 5852742.0735
+        "days_since_purchase": 3493,
+        "total_amount": 6160781.13
     },
     "196": {
         "customer_id": 7205,
@@ -2358,10 +2358,10 @@
         "price": 255.28,
         "coupon_code": "WELCOME5",
         "city": "Calgary",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "1/18/2011",
-        "days_since_purchase": 5368,
-        "total_amount": 1693246.7119999998
+        "days_since_purchase": 5369,
+        "total_amount": 1782364.96
     },
     "197": {
         "customer_id": 7485,
@@ -2370,10 +2370,10 @@
         "price": 109.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Montreal",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "4/11/2013",
-        "days_since_purchase": 4554,
-        "total_amount": 209981.52
+        "days_since_purchase": 4555,
+        "total_amount": 419963.04
     },
     "198": {
         "customer_id": 4005,
@@ -2382,10 +2382,10 @@
         "price": 9.33,
         "coupon_code": "SAVE10",
         "city": "Vancouver",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "5/18/2010",
-        "days_since_purchase": 5613,
-        "total_amount": 2300.7780000000002
+        "days_since_purchase": 5614,
+        "total_amount": 2556.42
     },
     "199": {
         "customer_id": 9394,
@@ -2396,7 +2396,7 @@
         "city": "Unknown",
         "discount": 0,
         "purchase_date": "6/5/2017",
-        "days_since_purchase": 3038,
+        "days_since_purchase": 3039,
         "total_amount": 777957.3999999999
     },
     "200": {
@@ -2406,10 +2406,10 @@
         "price": 81.73,
         "coupon_code": "WELCOME5",
         "city": "Toronto",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "9/11/2012",
-        "days_since_purchase": 4766,
-        "total_amount": 302887.2935
+        "days_since_purchase": 4767,
+        "total_amount": 318828.73000000004
     },
     "201": {
         "customer_id": 1735,
@@ -2418,10 +2418,10 @@
         "price": 255.28,
         "coupon_code": "SAVE10",
         "city": "Unknown",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "3/8/2017",
-        "days_since_purchase": 3127,
-        "total_amount": 1654214.4000000001
+        "days_since_purchase": 3128,
+        "total_amount": 1838016.0
     },
     "202": {
         "customer_id": 5276,
@@ -2430,10 +2430,10 @@
         "price": 668.27,
         "coupon_code": "WELCOME5",
         "city": "Montreal",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "1/28/2015",
-        "days_since_purchase": 3897,
-        "total_amount": 1446203.107
+        "days_since_purchase": 3898,
+        "total_amount": 1522319.06
     },
     "203": {
         "customer_id": 2006,
@@ -2442,10 +2442,10 @@
         "price": 81.73,
         "coupon_code": "SAVE10",
         "city": "Vancouver",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "7/26/2010",
-        "days_since_purchase": 5544,
-        "total_amount": 350351.991
+        "days_since_purchase": 5545,
+        "total_amount": 389279.99
     },
     "204": {
         "customer_id": 1690,
@@ -2454,10 +2454,10 @@
         "price": 152.58,
         "coupon_code": "SAVE10",
         "city": "Calgary",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "6/24/2016",
-        "days_since_purchase": 3384,
-        "total_amount": 318175.074
+        "days_since_purchase": 3385,
+        "total_amount": 353527.86000000004
     },
     "205": {
         "customer_id": 1907,
@@ -2466,10 +2466,10 @@
         "price": 421.89,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Calgary",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "8/18/2012",
-        "days_since_purchase": 4790,
-        "total_amount": 2032033.1849999998
+        "days_since_purchase": 4791,
+        "total_amount": 4064066.3699999996
     },
     "206": {
         "customer_id": 3206,
@@ -2478,10 +2478,10 @@
         "price": 154.06,
         "coupon_code": "SAVE10",
         "city": "Toronto",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "3/11/2010",
-        "days_since_purchase": 5681,
-        "total_amount": 476137.83600000007
+        "days_since_purchase": 5682,
+        "total_amount": 529042.04
     },
     "207": {
         "customer_id": 5546,
@@ -2490,10 +2490,10 @@
         "price": 154.06,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Edmonton",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "1/14/2010",
-        "days_since_purchase": 5737,
-        "total_amount": 575799.25
+        "days_since_purchase": 5738,
+        "total_amount": 1151598.5
     },
     "208": {
         "customer_id": 2769,
@@ -2502,10 +2502,10 @@
         "price": 205.7,
         "coupon_code": "SAVE10",
         "city": "Toronto",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "2/10/2014",
-        "days_since_purchase": 4249,
-        "total_amount": 1396250.46
+        "days_since_purchase": 4250,
+        "total_amount": 1551389.4
     },
     "209": {
         "customer_id": 4018,
@@ -2514,10 +2514,10 @@
         "price": 154.06,
         "coupon_code": "SAVE10",
         "city": "Edmonton",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "1/21/2014",
-        "days_since_purchase": 4269,
-        "total_amount": 894595.608
+        "days_since_purchase": 4270,
+        "total_amount": 993995.12
     },
     "210": {
         "customer_id": 2602,
@@ -2526,10 +2526,10 @@
         "price": 668.27,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Calgary",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "2/28/2010",
-        "days_since_purchase": 5692,
-        "total_amount": 3025592.425
+        "days_since_purchase": 5693,
+        "total_amount": 6051184.85
     },
     "211": {
         "customer_id": 7133,
@@ -2538,10 +2538,10 @@
         "price": 81.73,
         "coupon_code": "WELCOME5",
         "city": "Vancouver",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "2/18/2015",
-        "days_since_purchase": 3876,
-        "total_amount": 561362.505
+        "days_since_purchase": 3877,
+        "total_amount": 590907.9
     },
     "212": {
         "customer_id": 7554,
@@ -2550,10 +2550,10 @@
         "price": 651.21,
         "coupon_code": "WELCOME5",
         "city": "Unknown",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "6/14/2012",
-        "days_since_purchase": 4855,
-        "total_amount": 3023958.756
+        "days_since_purchase": 4856,
+        "total_amount": 3183114.48
     },
     "213": {
         "customer_id": 6981,
@@ -2562,10 +2562,10 @@
         "price": 109.28,
         "coupon_code": "WELCOME5",
         "city": "Unknown",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "3/5/2013",
-        "days_since_purchase": 4591,
-        "total_amount": 308541.15199999994
+        "days_since_purchase": 4592,
+        "total_amount": 324780.16
     },
     "214": {
         "customer_id": 2635,
@@ -2574,10 +2574,10 @@
         "price": 668.27,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Calgary",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "4/10/2014",
-        "days_since_purchase": 4190,
-        "total_amount": 1488571.425
+        "days_since_purchase": 4191,
+        "total_amount": 2977142.85
     },
     "215": {
         "customer_id": 7174,
@@ -2586,10 +2586,10 @@
         "price": 421.89,
         "coupon_code": "SAVE10",
         "city": "Montreal",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "7/26/2017",
-        "days_since_purchase": 2987,
-        "total_amount": 3546787.0409999997
+        "days_since_purchase": 2988,
+        "total_amount": 3940874.4899999998
     },
     "216": {
         "customer_id": 4135,
@@ -2598,10 +2598,10 @@
         "price": 9.33,
         "coupon_code": "SAVE10",
         "city": "Vancouver",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "10/19/2010",
-        "days_since_purchase": 5459,
-        "total_amount": 81190.59300000001
+        "days_since_purchase": 5460,
+        "total_amount": 90211.77
     },
     "217": {
         "customer_id": 4769,
@@ -2612,7 +2612,7 @@
         "city": "Ottawa",
         "discount": 0,
         "purchase_date": "11/8/2016",
-        "days_since_purchase": 3247,
+        "days_since_purchase": 3248,
         "total_amount": 1149525.84
     },
     "218": {
@@ -2624,7 +2624,7 @@
         "city": "Vancouver",
         "discount": 0,
         "purchase_date": "3/31/2014",
-        "days_since_purchase": 4200,
+        "days_since_purchase": 4201,
         "total_amount": 540280.32
     },
     "219": {
@@ -2634,10 +2634,10 @@
         "price": 154.06,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Montreal",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "8/18/2016",
-        "days_since_purchase": 3329,
-        "total_amount": 702590.63
+        "days_since_purchase": 3330,
+        "total_amount": 1405181.26
     },
     "220": {
         "customer_id": 7988,
@@ -2646,10 +2646,10 @@
         "price": 81.73,
         "coupon_code": "SAVE10",
         "city": "Toronto",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "1/3/2016",
-        "days_since_purchase": 3557,
-        "total_amount": 529316.1720000001
+        "days_since_purchase": 3558,
+        "total_amount": 588129.0800000001
     },
     "221": {
         "customer_id": 8039,
@@ -2660,7 +2660,7 @@
         "city": "Unknown",
         "discount": 0,
         "purchase_date": "10/21/2016",
-        "days_since_purchase": 3265,
+        "days_since_purchase": 3266,
         "total_amount": 59338.8
     },
     "222": {
@@ -2670,10 +2670,10 @@
         "price": 255.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Calgary",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "12/10/2016",
-        "days_since_purchase": 3215,
-        "total_amount": 745034.68
+        "days_since_purchase": 3216,
+        "total_amount": 1490069.36
     },
     "223": {
         "customer_id": 8042,
@@ -2684,7 +2684,7 @@
         "city": "Unknown",
         "discount": 0,
         "purchase_date": "8/12/2011",
-        "days_since_purchase": 5162,
+        "days_since_purchase": 5163,
         "total_amount": 289940.92
     },
     "224": {
@@ -2694,10 +2694,10 @@
         "price": 109.28,
         "coupon_code": "HOLIDAY25",
         "city": "Calgary",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "3/23/2012",
-        "days_since_purchase": 4938,
-        "total_amount": 228012.72000000003
+        "days_since_purchase": 4939,
+        "total_amount": 304016.96
     },
     "225": {
         "customer_id": 3315,
@@ -2706,10 +2706,10 @@
         "price": 152.58,
         "coupon_code": "HOLIDAY25",
         "city": "Toronto",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "4/27/2012",
-        "days_since_purchase": 4903,
-        "total_amount": 440918.055
+        "days_since_purchase": 4904,
+        "total_amount": 587890.74
     },
     "226": {
         "customer_id": 2343,
@@ -2718,10 +2718,10 @@
         "price": 668.27,
         "coupon_code": "WELCOME5",
         "city": "Unknown",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "1/29/2014",
-        "days_since_purchase": 4261,
-        "total_amount": 1552224.1424999998
+        "days_since_purchase": 4262,
+        "total_amount": 1633920.15
     },
     "227": {
         "customer_id": 2788,
@@ -2730,10 +2730,10 @@
         "price": 668.27,
         "coupon_code": "WELCOME5",
         "city": "Unknown",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "12/13/2016",
-        "days_since_purchase": 3212,
-        "total_amount": 1863938.684
+        "days_since_purchase": 3213,
+        "total_amount": 1962040.72
     },
     "228": {
         "customer_id": 9087,
@@ -2742,10 +2742,10 @@
         "price": 255.28,
         "coupon_code": "WELCOME5",
         "city": "Calgary",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "11/21/2013",
-        "days_since_purchase": 4330,
-        "total_amount": 421735.32399999996
+        "days_since_purchase": 4331,
+        "total_amount": 443931.92
     },
     "229": {
         "customer_id": 5452,
@@ -2754,10 +2754,10 @@
         "price": 109.28,
         "coupon_code": "SAVE10",
         "city": "Montreal",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "4/7/2010",
-        "days_since_purchase": 5654,
-        "total_amount": 225816.192
+        "days_since_purchase": 5655,
+        "total_amount": 250906.88
     },
     "230": {
         "customer_id": 2359,
@@ -2768,7 +2768,7 @@
         "city": "Ottawa",
         "discount": 0,
         "purchase_date": "7/8/2012",
-        "days_since_purchase": 4831,
+        "days_since_purchase": 4832,
         "total_amount": 20422.4
     },
     "231": {
@@ -2778,10 +2778,10 @@
         "price": 81.73,
         "coupon_code": "SAVE10",
         "city": "Calgary",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "10/15/2016",
-        "days_since_purchase": 3271,
-        "total_amount": 558812.5290000001
+        "days_since_purchase": 3272,
+        "total_amount": 620902.81
     },
     "232": {
         "customer_id": 1334,
@@ -2792,7 +2792,7 @@
         "city": "Vancouver",
         "discount": 0,
         "purchase_date": "9/18/2012",
-        "days_since_purchase": 4759,
+        "days_since_purchase": 4760,
         "total_amount": 3957750.09
     },
     "233": {
@@ -2802,10 +2802,10 @@
         "price": 651.21,
         "coupon_code": "HOLIDAY25",
         "city": "Toronto",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "7/2/2017",
-        "days_since_purchase": 3011,
-        "total_amount": 3419829.315
+        "days_since_purchase": 3012,
+        "total_amount": 4559772.42
     },
     "234": {
         "customer_id": 8671,
@@ -2814,10 +2814,10 @@
         "price": 437.2,
         "coupon_code": "SAVE10",
         "city": "Ottawa",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "7/21/2011",
-        "days_since_purchase": 5184,
-        "total_amount": 1595954.88
+        "days_since_purchase": 5185,
+        "total_amount": 1773283.2
     },
     "235": {
         "customer_id": 8016,
@@ -2828,7 +2828,7 @@
         "city": "Edmonton",
         "discount": 0,
         "purchase_date": "6/1/2010",
-        "days_since_purchase": 5599,
+        "days_since_purchase": 5600,
         "total_amount": 181020.5
     },
     "236": {
@@ -2838,10 +2838,10 @@
         "price": 651.21,
         "coupon_code": "HOLIDAY25",
         "city": "Unknown",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "7/26/2015",
-        "days_since_purchase": 3718,
-        "total_amount": 498175.65
+        "days_since_purchase": 3719,
+        "total_amount": 664234.2000000001
     },
     "237": {
         "customer_id": 2119,
@@ -2850,10 +2850,10 @@
         "price": 255.28,
         "coupon_code": "WELCOME5",
         "city": "Calgary",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "8/6/2010",
-        "days_since_purchase": 5533,
-        "total_amount": 795937.5119999999
+        "days_since_purchase": 5534,
+        "total_amount": 837828.96
     },
     "238": {
         "customer_id": 5062,
@@ -2862,10 +2862,10 @@
         "price": 651.21,
         "coupon_code": "SAVE10",
         "city": "Edmonton",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "6/20/2010",
-        "days_since_purchase": 5580,
-        "total_amount": 5676271.965000001
+        "days_since_purchase": 5581,
+        "total_amount": 6306968.850000001
     },
     "239": {
         "customer_id": 9733,
@@ -2874,10 +2874,10 @@
         "price": 205.7,
         "coupon_code": "WELCOME5",
         "city": "Ottawa",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "4/8/2012",
-        "days_since_purchase": 4922,
-        "total_amount": 1755803.775
+        "days_since_purchase": 4923,
+        "total_amount": 1848214.5
     },
     "240": {
         "customer_id": 6142,
@@ -2888,7 +2888,7 @@
         "city": "Ottawa",
         "discount": 0,
         "purchase_date": "2/27/2014",
-        "days_since_purchase": 4232,
+        "days_since_purchase": 4233,
         "total_amount": 404611.89999999997
     },
     "241": {
@@ -2900,7 +2900,7 @@
         "city": "Unknown",
         "discount": 0,
         "purchase_date": "7/25/2011",
-        "days_since_purchase": 5180,
+        "days_since_purchase": 5181,
         "total_amount": 4309673.2299999995
     },
     "242": {
@@ -2912,7 +2912,7 @@
         "city": "Vancouver",
         "discount": 0,
         "purchase_date": "2/18/2016",
-        "days_since_purchase": 3511,
+        "days_since_purchase": 3512,
         "total_amount": 581783.12
     },
     "243": {
@@ -2924,7 +2924,7 @@
         "city": "Toronto",
         "discount": 0,
         "purchase_date": "1/24/2014",
-        "days_since_purchase": 4266,
+        "days_since_purchase": 4267,
         "total_amount": 1617964.64
     },
     "244": {
@@ -2934,10 +2934,10 @@
         "price": 81.73,
         "coupon_code": "SAVE10",
         "city": "Vancouver",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "5/10/2015",
-        "days_since_purchase": 3795,
-        "total_amount": 554325.552
+        "days_since_purchase": 3796,
+        "total_amount": 615917.28
     },
     "245": {
         "customer_id": 7163,
@@ -2946,10 +2946,10 @@
         "price": 109.28,
         "coupon_code": "WELCOME5",
         "city": "Ottawa",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "2/13/2012",
-        "days_since_purchase": 4977,
-        "total_amount": 188529.856
+        "days_since_purchase": 4978,
+        "total_amount": 198452.48
     },
     "246": {
         "customer_id": 1843,
@@ -2958,10 +2958,10 @@
         "price": 205.7,
         "coupon_code": "WELCOME5",
         "city": "Edmonton",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "9/7/2012",
-        "days_since_purchase": 4770,
-        "total_amount": 1397412.6649999998
+        "days_since_purchase": 4771,
+        "total_amount": 1470960.7
     },
     "247": {
         "customer_id": 4486,
@@ -2972,7 +2972,7 @@
         "city": "Vancouver",
         "discount": 0,
         "purchase_date": "2/4/2015",
-        "days_since_purchase": 3890,
+        "days_since_purchase": 3891,
         "total_amount": 5565891.87
     },
     "248": {
@@ -2982,10 +2982,10 @@
         "price": 9.33,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Edmonton",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "11/16/2010",
-        "days_since_purchase": 5431,
-        "total_amount": 14176.935
+        "days_since_purchase": 5432,
+        "total_amount": 28353.87
     },
     "249": {
         "customer_id": 9624,
@@ -2994,10 +2994,10 @@
         "price": 154.06,
         "coupon_code": "WELCOME5",
         "city": "Unknown",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "7/20/2011",
-        "days_since_purchase": 5185,
-        "total_amount": 687146.1149999999
+        "days_since_purchase": 5186,
+        "total_amount": 723311.7
     },
     "250": {
         "customer_id": 8425,
@@ -3006,10 +3006,10 @@
         "price": 47.45,
         "coupon_code": "HOLIDAY25",
         "city": "Unknown",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "7/26/2014",
-        "days_since_purchase": 4083,
-        "total_amount": 342138.22500000003
+        "days_since_purchase": 4084,
+        "total_amount": 456184.30000000005
     },
     "251": {
         "customer_id": 2289,
@@ -3020,7 +3020,7 @@
         "city": "Montreal",
         "discount": 0,
         "purchase_date": "8/24/2014",
-        "days_since_purchase": 4054,
+        "days_since_purchase": 4055,
         "total_amount": 389826.36
     },
     "252": {
@@ -3032,7 +3032,7 @@
         "city": "Unknown",
         "discount": 0,
         "purchase_date": "2/25/2015",
-        "days_since_purchase": 3869,
+        "days_since_purchase": 3870,
         "total_amount": 583733.34
     },
     "253": {
@@ -3042,10 +3042,10 @@
         "price": 668.27,
         "coupon_code": "SAVE10",
         "city": "Calgary",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "9/21/2016",
-        "days_since_purchase": 3295,
-        "total_amount": 239975.75699999998
+        "days_since_purchase": 3296,
+        "total_amount": 266639.73
     },
     "254": {
         "customer_id": 3768,
@@ -3054,10 +3054,10 @@
         "price": 668.27,
         "coupon_code": "HOLIDAY25",
         "city": "Edmonton",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "6/28/2013",
-        "days_since_purchase": 4476,
-        "total_amount": 2495487.2475
+        "days_since_purchase": 4477,
+        "total_amount": 3327316.33
     },
     "255": {
         "customer_id": 5515,
@@ -3066,10 +3066,10 @@
         "price": 421.89,
         "coupon_code": "HOLIDAY25",
         "city": "Calgary",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "1/5/2012",
-        "days_since_purchase": 5016,
-        "total_amount": 2779094.9025
+        "days_since_purchase": 5017,
+        "total_amount": 3705459.87
     },
     "256": {
         "customer_id": 7310,
@@ -3078,10 +3078,10 @@
         "price": 47.45,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Toronto",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "5/1/2012",
-        "days_since_purchase": 4899,
-        "total_amount": 120950.05
+        "days_since_purchase": 4900,
+        "total_amount": 241900.1
     },
     "257": {
         "customer_id": 7921,
@@ -3092,7 +3092,7 @@
         "city": "Montreal",
         "discount": 0,
         "purchase_date": "10/13/2011",
-        "days_since_purchase": 5100,
+        "days_since_purchase": 5101,
         "total_amount": 872168.0
     },
     "258": {
@@ -3102,10 +3102,10 @@
         "price": 668.27,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Montreal",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "4/27/2016",
-        "days_since_purchase": 3442,
-        "total_amount": 2859861.465
+        "days_since_purchase": 3443,
+        "total_amount": 5719722.93
     },
     "259": {
         "customer_id": 4969,
@@ -3116,7 +3116,7 @@
         "city": "Calgary",
         "discount": 0,
         "purchase_date": "1/19/2014",
-        "days_since_purchase": 4271,
+        "days_since_purchase": 4272,
         "total_amount": 3136752.15
     },
     "260": {
@@ -3126,10 +3126,10 @@
         "price": 9.33,
         "coupon_code": "WELCOME5",
         "city": "Montreal",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "11/6/2016",
-        "days_since_purchase": 3249,
-        "total_amount": 20191.053
+        "days_since_purchase": 3250,
+        "total_amount": 21253.74
     },
     "261": {
         "customer_id": 2149,
@@ -3138,10 +3138,10 @@
         "price": 668.27,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Toronto",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "2/28/2011",
-        "days_since_purchase": 5327,
-        "total_amount": 511560.685
+        "days_since_purchase": 5328,
+        "total_amount": 1023121.37
     },
     "262": {
         "customer_id": 5882,
@@ -3150,10 +3150,10 @@
         "price": 255.28,
         "coupon_code": "WELCOME5",
         "city": "Toronto",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "10/11/2014",
-        "days_since_purchase": 4006,
-        "total_amount": 1374580.688
+        "days_since_purchase": 4007,
+        "total_amount": 1446927.04
     },
     "263": {
         "customer_id": 9254,
@@ -3162,10 +3162,10 @@
         "price": 47.45,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Unknown",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "6/25/2012",
-        "days_since_purchase": 4844,
-        "total_amount": 52028.925
+        "days_since_purchase": 4845,
+        "total_amount": 104057.85
     },
     "264": {
         "customer_id": 1650,
@@ -3174,10 +3174,10 @@
         "price": 668.27,
         "coupon_code": "HOLIDAY25",
         "city": "Montreal",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "11/6/2012",
-        "days_since_purchase": 4710,
-        "total_amount": 321772.005
+        "days_since_purchase": 4711,
+        "total_amount": 429029.33999999997
     },
     "265": {
         "customer_id": 8143,
@@ -3186,10 +3186,10 @@
         "price": 668.27,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Montreal",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "2/24/2014",
-        "days_since_purchase": 4235,
-        "total_amount": 2534079.84
+        "days_since_purchase": 4236,
+        "total_amount": 5068159.68
     },
     "266": {
         "customer_id": 8135,
@@ -3198,10 +3198,10 @@
         "price": 255.28,
         "coupon_code": "HOLIDAY25",
         "city": "Montreal",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "9/19/2015",
-        "days_since_purchase": 3663,
-        "total_amount": 309399.36
+        "days_since_purchase": 3664,
+        "total_amount": 412532.48
     },
     "267": {
         "customer_id": 2943,
@@ -3210,10 +3210,10 @@
         "price": 152.58,
         "coupon_code": "SAVE10",
         "city": "Montreal",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "3/4/2014",
-        "days_since_purchase": 4227,
-        "total_amount": 1149247.818
+        "days_since_purchase": 4228,
+        "total_amount": 1276942.02
     },
     "268": {
         "customer_id": 7293,
@@ -3222,10 +3222,10 @@
         "price": 9.33,
         "coupon_code": "WELCOME5",
         "city": "Toronto",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "10/8/2014",
-        "days_since_purchase": 4009,
-        "total_amount": 48775.8405
+        "days_since_purchase": 4010,
+        "total_amount": 51342.99
     },
     "269": {
         "customer_id": 3544,
@@ -3236,7 +3236,7 @@
         "city": "Edmonton",
         "discount": 0,
         "purchase_date": "6/19/2012",
-        "days_since_purchase": 4850,
+        "days_since_purchase": 4851,
         "total_amount": 1188110.72
     },
     "270": {
@@ -3246,10 +3246,10 @@
         "price": 109.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Montreal",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "11/11/2010",
-        "days_since_purchase": 5436,
-        "total_amount": 93871.52
+        "days_since_purchase": 5437,
+        "total_amount": 187743.04
     },
     "271": {
         "customer_id": 9749,
@@ -3258,10 +3258,10 @@
         "price": 81.73,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Calgary",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "11/1/2010",
-        "days_since_purchase": 5446,
-        "total_amount": 52143.740000000005
+        "days_since_purchase": 5447,
+        "total_amount": 104287.48000000001
     },
     "272": {
         "customer_id": 7686,
@@ -3272,7 +3272,7 @@
         "city": "Ottawa",
         "discount": 0,
         "purchase_date": "4/28/2014",
-        "days_since_purchase": 4172,
+        "days_since_purchase": 4173,
         "total_amount": 334772.38
     },
     "273": {
@@ -3282,10 +3282,10 @@
         "price": 152.58,
         "coupon_code": "WELCOME5",
         "city": "Calgary",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "12/22/2012",
-        "days_since_purchase": 4664,
-        "total_amount": 1047560.8770000001
+        "days_since_purchase": 4665,
+        "total_amount": 1102695.6600000001
     },
     "274": {
         "customer_id": 6550,
@@ -3294,10 +3294,10 @@
         "price": 668.27,
         "coupon_code": "SAVE10",
         "city": "Unknown",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "8/25/2014",
-        "days_since_purchase": 4053,
-        "total_amount": 772854.255
+        "days_since_purchase": 4054,
+        "total_amount": 858726.95
     },
     "275": {
         "customer_id": 4945,
@@ -3306,10 +3306,10 @@
         "price": 9.33,
         "coupon_code": "HOLIDAY25",
         "city": "Unknown",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "11/26/2016",
-        "days_since_purchase": 3229,
-        "total_amount": 43573.4325
+        "days_since_purchase": 3230,
+        "total_amount": 58097.91
     },
     "276": {
         "customer_id": 8282,
@@ -3318,10 +3318,10 @@
         "price": 205.7,
         "coupon_code": "HOLIDAY25",
         "city": "Toronto",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "10/20/2010",
-        "days_since_purchase": 5458,
-        "total_amount": 920250.375
+        "days_since_purchase": 5459,
+        "total_amount": 1227000.5
     },
     "277": {
         "customer_id": 5022,
@@ -3330,10 +3330,10 @@
         "price": 421.89,
         "coupon_code": "SAVE10",
         "city": "Vancouver",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "12/18/2014",
-        "days_since_purchase": 3938,
-        "total_amount": 547149.1410000001
+        "days_since_purchase": 3939,
+        "total_amount": 607943.49
     },
     "278": {
         "customer_id": 2576,
@@ -3342,10 +3342,10 @@
         "price": 109.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "3/20/2011",
-        "days_since_purchase": 5307,
-        "total_amount": 307568.56
+        "days_since_purchase": 5308,
+        "total_amount": 615137.12
     },
     "279": {
         "customer_id": 1111,
@@ -3354,10 +3354,10 @@
         "price": 437.2,
         "coupon_code": "WELCOME5",
         "city": "Ottawa",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "7/12/2016",
-        "days_since_purchase": 3366,
-        "total_amount": 3544511.5599999996
+        "days_since_purchase": 3367,
+        "total_amount": 3731064.8
     },
     "280": {
         "customer_id": 7793,
@@ -3366,10 +3366,10 @@
         "price": 668.27,
         "coupon_code": "HOLIDAY25",
         "city": "Edmonton",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "1/26/2011",
-        "days_since_purchase": 5360,
-        "total_amount": 1098134.6775
+        "days_since_purchase": 5361,
+        "total_amount": 1464179.57
     },
     "281": {
         "customer_id": 2008,
@@ -3378,10 +3378,10 @@
         "price": 651.21,
         "coupon_code": "HOLIDAY25",
         "city": "Vancouver",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "2/24/2010",
-        "days_since_purchase": 5696,
-        "total_amount": 2768293.71
+        "days_since_purchase": 5697,
+        "total_amount": 3691058.2800000003
     },
     "282": {
         "customer_id": 1327,
@@ -3392,7 +3392,7 @@
         "city": "Toronto",
         "discount": 0,
         "purchase_date": "1/2/2015",
-        "days_since_purchase": 3923,
+        "days_since_purchase": 3924,
         "total_amount": 9859.84
     },
     "283": {
@@ -3402,10 +3402,10 @@
         "price": 651.21,
         "coupon_code": "HOLIDAY25",
         "city": "Unknown",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "7/26/2016",
-        "days_since_purchase": 3352,
-        "total_amount": 1713821.9175
+        "days_since_purchase": 3353,
+        "total_amount": 2285095.89
     },
     "284": {
         "customer_id": 9516,
@@ -3414,10 +3414,10 @@
         "price": 154.06,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "6/1/2014",
-        "days_since_purchase": 4138,
-        "total_amount": 474735.89
+        "days_since_purchase": 4139,
+        "total_amount": 949471.78
     },
     "285": {
         "customer_id": 9789,
@@ -3428,7 +3428,7 @@
         "city": "Montreal",
         "discount": 0,
         "purchase_date": "12/21/2012",
-        "days_since_purchase": 4665,
+        "days_since_purchase": 4666,
         "total_amount": 247689.00000000003
     },
     "286": {
@@ -3440,7 +3440,7 @@
         "city": "Vancouver",
         "discount": 0,
         "purchase_date": "2/27/2010",
-        "days_since_purchase": 5693,
+        "days_since_purchase": 5694,
         "total_amount": 6617209.54
     },
     "287": {
@@ -3450,10 +3450,10 @@
         "price": 154.06,
         "coupon_code": "WELCOME5",
         "city": "Vancouver",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "4/24/2016",
-        "days_since_purchase": 3445,
-        "total_amount": 946198.005
+        "days_since_purchase": 3446,
+        "total_amount": 995997.9
     },
     "288": {
         "customer_id": 8902,
@@ -3462,10 +3462,10 @@
         "price": 154.06,
         "coupon_code": "SAVE10",
         "city": "Ottawa",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "7/22/2012",
-        "days_since_purchase": 4817,
-        "total_amount": 442999.53
+        "days_since_purchase": 4818,
+        "total_amount": 492221.7
     },
     "289": {
         "customer_id": 8592,
@@ -3474,10 +3474,10 @@
         "price": 205.7,
         "coupon_code": "HOLIDAY25",
         "city": "Montreal",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "2/22/2015",
-        "days_since_purchase": 3872,
-        "total_amount": 834473.4750000001
+        "days_since_purchase": 3873,
+        "total_amount": 1112631.3
     },
     "290": {
         "customer_id": 1119,
@@ -3488,7 +3488,7 @@
         "city": "Calgary",
         "discount": 0,
         "purchase_date": "2/10/2011",
-        "days_since_purchase": 5345,
+        "days_since_purchase": 5346,
         "total_amount": 21589.75
     },
     "291": {
@@ -3498,10 +3498,10 @@
         "price": 437.2,
         "coupon_code": "WELCOME5",
         "city": "Unknown",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "1/21/2015",
-        "days_since_purchase": 3904,
-        "total_amount": 1127648.0999999999
+        "days_since_purchase": 3905,
+        "total_amount": 1186998.0
     },
     "292": {
         "customer_id": 4269,
@@ -3510,10 +3510,10 @@
         "price": 47.45,
         "coupon_code": "WELCOME5",
         "city": "Edmonton",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "5/10/2012",
-        "days_since_purchase": 4890,
-        "total_amount": 387576.34500000003
+        "days_since_purchase": 4891,
+        "total_amount": 407975.10000000003
     },
     "293": {
         "customer_id": 5746,
@@ -3522,10 +3522,10 @@
         "price": 154.06,
         "coupon_code": "WELCOME5",
         "city": "Montreal",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "12/16/2015",
-        "days_since_purchase": 3575,
-        "total_amount": 226414.279
+        "days_since_purchase": 3576,
+        "total_amount": 238330.82
     },
     "294": {
         "customer_id": 7316,
@@ -3534,10 +3534,10 @@
         "price": 154.06,
         "coupon_code": "HOLIDAY25",
         "city": "Calgary",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "2/25/2017",
-        "days_since_purchase": 3138,
-        "total_amount": 812974.6199999999
+        "days_since_purchase": 3139,
+        "total_amount": 1083966.16
     },
     "295": {
         "customer_id": 4835,
@@ -3546,10 +3546,10 @@
         "price": 255.28,
         "coupon_code": "WELCOME5",
         "city": "Edmonton",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "1/31/2012",
-        "days_since_purchase": 4990,
-        "total_amount": 1835846.12
+        "days_since_purchase": 4991,
+        "total_amount": 1932469.6
     },
     "296": {
         "customer_id": 2630,
@@ -3558,10 +3558,10 @@
         "price": 437.2,
         "coupon_code": "SAVE10",
         "city": "Montreal",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "2/7/2013",
-        "days_since_purchase": 4617,
-        "total_amount": 3023893.8000000003
+        "days_since_purchase": 4618,
+        "total_amount": 3359882.0
     },
     "297": {
         "customer_id": 8871,
@@ -3570,10 +3570,10 @@
         "price": 668.27,
         "coupon_code": "WELCOME5",
         "city": "Vancouver",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "9/14/2014",
-        "days_since_purchase": 4033,
-        "total_amount": 5680695.961999999
+        "days_since_purchase": 4034,
+        "total_amount": 5979679.96
     },
     "298": {
         "customer_id": 5050,
@@ -3582,10 +3582,10 @@
         "price": 205.7,
         "coupon_code": "HOLIDAY25",
         "city": "Ottawa",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "6/5/2012",
-        "days_since_purchase": 4864,
-        "total_amount": 764741.1749999999
+        "days_since_purchase": 4865,
+        "total_amount": 1019654.8999999999
     },
     "299": {
         "customer_id": 5417,
@@ -3594,10 +3594,10 @@
         "price": 437.2,
         "coupon_code": "WELCOME5",
         "city": "Vancouver",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "4/5/2014",
-        "days_since_purchase": 4195,
-        "total_amount": 2634916.9599999995
+        "days_since_purchase": 4196,
+        "total_amount": 2773596.8
     },
     "300": {
         "customer_id": 9418,
@@ -3606,10 +3606,10 @@
         "price": 651.21,
         "coupon_code": "WELCOME5",
         "city": "Ottawa",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "2/2/2014",
-        "days_since_purchase": 4257,
-        "total_amount": 3568370.316
+        "days_since_purchase": 4258,
+        "total_amount": 3756179.2800000003
     },
     "301": {
         "customer_id": 8880,
@@ -3618,10 +3618,10 @@
         "price": 651.21,
         "coupon_code": "HOLIDAY25",
         "city": "Calgary",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "9/1/2010",
-        "days_since_purchase": 5507,
-        "total_amount": 1427615.1225
+        "days_since_purchase": 5508,
+        "total_amount": 1903486.83
     },
     "302": {
         "customer_id": 8349,
@@ -3632,7 +3632,7 @@
         "city": "Montreal",
         "discount": 0,
         "purchase_date": "5/17/2011",
-        "days_since_purchase": 5249,
+        "days_since_purchase": 5250,
         "total_amount": 6207333.720000001
     },
     "303": {
@@ -3642,10 +3642,10 @@
         "price": 47.45,
         "coupon_code": "SAVE10",
         "city": "Unknown",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "4/21/2013",
-        "days_since_purchase": 4544,
-        "total_amount": 185724.045
+        "days_since_purchase": 4545,
+        "total_amount": 206360.05000000002
     },
     "304": {
         "customer_id": 5202,
@@ -3654,10 +3654,10 @@
         "price": 47.45,
         "coupon_code": "SAVE10",
         "city": "Vancouver",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "8/10/2014",
-        "days_since_purchase": 4068,
-        "total_amount": 348515.505
+        "days_since_purchase": 4069,
+        "total_amount": 387239.45
     },
     "305": {
         "customer_id": 2789,
@@ -3666,10 +3666,10 @@
         "price": 152.58,
         "coupon_code": "WELCOME5",
         "city": "Toronto",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "9/19/2010",
-        "days_since_purchase": 5489,
-        "total_amount": 1273539.486
+        "days_since_purchase": 5490,
+        "total_amount": 1340567.8800000001
     },
     "306": {
         "customer_id": 9248,
@@ -3678,10 +3678,10 @@
         "price": 81.73,
         "coupon_code": "HOLIDAY25",
         "city": "Vancouver",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "4/13/2013",
-        "days_since_purchase": 4552,
-        "total_amount": 372137.1225
+        "days_since_purchase": 4553,
+        "total_amount": 496182.83
     },
     "307": {
         "customer_id": 4357,
@@ -3690,10 +3690,10 @@
         "price": 9.33,
         "coupon_code": "SAVE10",
         "city": "Ottawa",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "1/28/2016",
-        "days_since_purchase": 3532,
-        "total_amount": 57914.109000000004
+        "days_since_purchase": 3533,
+        "total_amount": 64349.01
     },
     "308": {
         "customer_id": 2986,
@@ -3702,10 +3702,10 @@
         "price": 109.28,
         "coupon_code": "SAVE10",
         "city": "Ottawa",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "12/9/2013",
-        "days_since_purchase": 4312,
-        "total_amount": 17211.600000000002
+        "days_since_purchase": 4313,
+        "total_amount": 19124.0
     },
     "309": {
         "customer_id": 7064,
@@ -3714,10 +3714,10 @@
         "price": 205.7,
         "coupon_code": "HOLIDAY25",
         "city": "Montreal",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "2/21/2014",
-        "days_since_purchase": 4238,
-        "total_amount": 285100.19999999995
+        "days_since_purchase": 4239,
+        "total_amount": 380133.6
     },
     "310": {
         "customer_id": 9730,
@@ -3728,7 +3728,7 @@
         "city": "Vancouver",
         "discount": 0,
         "purchase_date": "6/9/2017",
-        "days_since_purchase": 3034,
+        "days_since_purchase": 3035,
         "total_amount": 1080560.64
     },
     "311": {
@@ -3738,10 +3738,10 @@
         "price": 668.27,
         "coupon_code": "SAVE10",
         "city": "Calgary",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "4/17/2014",
-        "days_since_purchase": 4183,
-        "total_amount": 5594622.786
+        "days_since_purchase": 4184,
+        "total_amount": 6216247.54
     },
     "312": {
         "customer_id": 7285,
@@ -3750,10 +3750,10 @@
         "price": 9.33,
         "coupon_code": "WELCOME5",
         "city": "Vancouver",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "5/20/2011",
-        "days_since_purchase": 5246,
-        "total_amount": 63143.57399999999
+        "days_since_purchase": 5247,
+        "total_amount": 66466.92
     },
     "313": {
         "customer_id": 4870,
@@ -3762,10 +3762,10 @@
         "price": 154.06,
         "coupon_code": "WELCOME5",
         "city": "Unknown",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "8/28/2012",
-        "days_since_purchase": 4780,
-        "total_amount": 1086261.654
+        "days_since_purchase": 4781,
+        "total_amount": 1143433.32
     },
     "314": {
         "customer_id": 7380,
@@ -3774,10 +3774,10 @@
         "price": 437.2,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Calgary",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "7/25/2015",
-        "days_since_purchase": 3719,
-        "total_amount": 1376305.5999999999
+        "days_since_purchase": 3720,
+        "total_amount": 2752611.1999999997
     },
     "315": {
         "customer_id": 7492,
@@ -3788,7 +3788,7 @@
         "city": "Calgary",
         "discount": 0,
         "purchase_date": "10/27/2014",
-        "days_since_purchase": 3990,
+        "days_since_purchase": 3991,
         "total_amount": 3005312.8
     },
     "316": {
@@ -3798,10 +3798,10 @@
         "price": 668.27,
         "coupon_code": "WELCOME5",
         "city": "Calgary",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "10/18/2013",
-        "days_since_purchase": 4364,
-        "total_amount": 2741945.2235
+        "days_since_purchase": 4365,
+        "total_amount": 2886258.13
     },
     "317": {
         "customer_id": 8691,
@@ -3810,10 +3810,10 @@
         "price": 47.45,
         "coupon_code": "SAVE10",
         "city": "Toronto",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "2/15/2013",
-        "days_since_purchase": 4609,
-        "total_amount": 35103.51
+        "days_since_purchase": 4610,
+        "total_amount": 39003.9
     },
     "318": {
         "customer_id": 9079,
@@ -3822,10 +3822,10 @@
         "price": 255.28,
         "coupon_code": "HOLIDAY25",
         "city": "Edmonton",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "7/8/2014",
-        "days_since_purchase": 4101,
-        "total_amount": 116216.22
+        "days_since_purchase": 4102,
+        "total_amount": 154954.96
     },
     "319": {
         "customer_id": 2777,
@@ -3834,10 +3834,10 @@
         "price": 205.7,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Unknown",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "12/12/2016",
-        "days_since_purchase": 3213,
-        "total_amount": 506844.8
+        "days_since_purchase": 3214,
+        "total_amount": 1013689.6
     },
     "320": {
         "customer_id": 3795,
@@ -3846,10 +3846,10 @@
         "price": 205.7,
         "coupon_code": "HOLIDAY25",
         "city": "Unknown",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "11/24/2012",
-        "days_since_purchase": 4692,
-        "total_amount": 1091187.075
+        "days_since_purchase": 4693,
+        "total_amount": 1454916.0999999999
     },
     "321": {
         "customer_id": 2185,
@@ -3858,10 +3858,10 @@
         "price": 255.28,
         "coupon_code": "HOLIDAY25",
         "city": "Calgary",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "11/3/2014",
-        "days_since_purchase": 3983,
-        "total_amount": 1408762.68
+        "days_since_purchase": 3984,
+        "total_amount": 1878350.24
     },
     "322": {
         "customer_id": 1153,
@@ -3870,10 +3870,10 @@
         "price": 421.89,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Toronto",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "8/3/2013",
-        "days_since_purchase": 4440,
-        "total_amount": 1715404.74
+        "days_since_purchase": 4441,
+        "total_amount": 3430809.48
     },
     "323": {
         "customer_id": 1285,
@@ -3882,10 +3882,10 @@
         "price": 81.73,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Montreal",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "5/23/2012",
-        "days_since_purchase": 4877,
-        "total_amount": 358590.375
+        "days_since_purchase": 4878,
+        "total_amount": 717180.75
     },
     "324": {
         "customer_id": 8431,
@@ -3896,7 +3896,7 @@
         "city": "Montreal",
         "discount": 0,
         "purchase_date": "7/22/2015",
-        "days_since_purchase": 3722,
+        "days_since_purchase": 3723,
         "total_amount": 76386.72
     },
     "325": {
@@ -3906,10 +3906,10 @@
         "price": 109.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Calgary",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "2/1/2017",
-        "days_since_purchase": 3162,
-        "total_amount": 128076.16
+        "days_since_purchase": 3163,
+        "total_amount": 256152.32
     },
     "326": {
         "customer_id": 5618,
@@ -3918,10 +3918,10 @@
         "price": 47.45,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "1/28/2012",
-        "days_since_purchase": 4993,
-        "total_amount": 99312.85
+        "days_since_purchase": 4994,
+        "total_amount": 198625.7
     },
     "327": {
         "customer_id": 3539,
@@ -3930,10 +3930,10 @@
         "price": 47.45,
         "coupon_code": "SAVE10",
         "city": "Vancouver",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "8/3/2015",
-        "days_since_purchase": 3710,
-        "total_amount": 159246.945
+        "days_since_purchase": 3711,
+        "total_amount": 176941.05000000002
     },
     "328": {
         "customer_id": 2002,
@@ -3942,10 +3942,10 @@
         "price": 255.28,
         "coupon_code": "HOLIDAY25",
         "city": "Montreal",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "6/23/2013",
-        "days_since_purchase": 4481,
-        "total_amount": 97261.68000000001
+        "days_since_purchase": 4482,
+        "total_amount": 129682.24
     },
     "329": {
         "customer_id": 7688,
@@ -3954,10 +3954,10 @@
         "price": 421.89,
         "coupon_code": "HOLIDAY25",
         "city": "Montreal",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "8/3/2011",
-        "days_since_purchase": 5171,
-        "total_amount": 345844.32749999996
+        "days_since_purchase": 5172,
+        "total_amount": 461125.76999999996
     },
     "330": {
         "customer_id": 5532,
@@ -3966,10 +3966,10 @@
         "price": 421.89,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Montreal",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "10/30/2016",
-        "days_since_purchase": 3256,
-        "total_amount": 860655.6
+        "days_since_purchase": 3257,
+        "total_amount": 1721311.2
     },
     "331": {
         "customer_id": 1447,
@@ -3978,10 +3978,10 @@
         "price": 154.06,
         "coupon_code": "HOLIDAY25",
         "city": "Ottawa",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "9/5/2010",
-        "days_since_purchase": 5503,
-        "total_amount": 589279.5
+        "days_since_purchase": 5504,
+        "total_amount": 785706.0
     },
     "332": {
         "customer_id": 8707,
@@ -3990,10 +3990,10 @@
         "price": 47.45,
         "coupon_code": "WELCOME5",
         "city": "Calgary",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "7/13/2013",
-        "days_since_purchase": 4461,
-        "total_amount": 81815.66249999999
+        "days_since_purchase": 4462,
+        "total_amount": 86121.75
     },
     "333": {
         "customer_id": 2768,
@@ -4002,10 +4002,10 @@
         "price": 154.06,
         "coupon_code": "SAVE10",
         "city": "Calgary",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "10/9/2012",
-        "days_since_purchase": 4738,
-        "total_amount": 1236239.064
+        "days_since_purchase": 4739,
+        "total_amount": 1373598.96
     },
     "334": {
         "customer_id": 8953,
@@ -4014,10 +4014,10 @@
         "price": 154.06,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Calgary",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "1/3/2012",
-        "days_since_purchase": 5018,
-        "total_amount": 240872.81
+        "days_since_purchase": 5019,
+        "total_amount": 481745.62
     },
     "335": {
         "customer_id": 7099,
@@ -4026,10 +4026,10 @@
         "price": 255.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Unknown",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "2/8/2012",
-        "days_since_purchase": 4982,
-        "total_amount": 1047030.92
+        "days_since_purchase": 4983,
+        "total_amount": 2094061.84
     },
     "336": {
         "customer_id": 1192,
@@ -4038,10 +4038,10 @@
         "price": 109.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Toronto",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "1/3/2015",
-        "days_since_purchase": 3922,
-        "total_amount": 542575.2
+        "days_since_purchase": 3923,
+        "total_amount": 1085150.4
     },
     "337": {
         "customer_id": 8686,
@@ -4050,10 +4050,10 @@
         "price": 81.73,
         "coupon_code": "SAVE10",
         "city": "Vancouver",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "5/13/2012",
-        "days_since_purchase": 4887,
-        "total_amount": 82825.18200000002
+        "days_since_purchase": 4888,
+        "total_amount": 92027.98000000001
     },
     "338": {
         "customer_id": 1683,
@@ -4062,10 +4062,10 @@
         "price": 152.58,
         "coupon_code": "SAVE10",
         "city": "Vancouver",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "1/13/2012",
-        "days_since_purchase": 5008,
-        "total_amount": 911680.7580000001
+        "days_since_purchase": 5009,
+        "total_amount": 1012978.6200000001
     },
     "339": {
         "customer_id": 2687,
@@ -4074,10 +4074,10 @@
         "price": 205.7,
         "coupon_code": "SAVE10",
         "city": "Ottawa",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "7/30/2011",
-        "days_since_purchase": 5175,
-        "total_amount": 1545650.3699999999
+        "days_since_purchase": 5176,
+        "total_amount": 1717389.2999999998
     },
     "340": {
         "customer_id": 9387,
@@ -4086,10 +4086,10 @@
         "price": 152.58,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Montreal",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "3/13/2017",
-        "days_since_purchase": 3122,
-        "total_amount": 12740.43
+        "days_since_purchase": 3123,
+        "total_amount": 25480.86
     },
     "341": {
         "customer_id": 4807,
@@ -4098,10 +4098,10 @@
         "price": 651.21,
         "coupon_code": "HOLIDAY25",
         "city": "Unknown",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "3/23/2017",
-        "days_since_purchase": 3112,
-        "total_amount": 1482805.17
+        "days_since_purchase": 3113,
+        "total_amount": 1977073.56
     },
     "342": {
         "customer_id": 8894,
@@ -4110,10 +4110,10 @@
         "price": 255.28,
         "coupon_code": "HOLIDAY25",
         "city": "Vancouver",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "3/16/2016",
-        "days_since_purchase": 3484,
-        "total_amount": 1901006.34
+        "days_since_purchase": 3485,
+        "total_amount": 2534675.12
     },
     "343": {
         "customer_id": 8669,
@@ -4124,7 +4124,7 @@
         "city": "Vancouver",
         "discount": 0,
         "purchase_date": "12/18/2015",
-        "days_since_purchase": 3573,
+        "days_since_purchase": 3574,
         "total_amount": 40379.950000000004
     },
     "344": {
@@ -4136,7 +4136,7 @@
         "city": "Unknown",
         "discount": 0,
         "purchase_date": "10/25/2011",
-        "days_since_purchase": 5088,
+        "days_since_purchase": 5089,
         "total_amount": 73128.54
     },
     "345": {
@@ -4146,10 +4146,10 @@
         "price": 255.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Calgary",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "6/30/2011",
-        "days_since_purchase": 5205,
-        "total_amount": 1271039.12
+        "days_since_purchase": 5206,
+        "total_amount": 2542078.24
     },
     "346": {
         "customer_id": 3758,
@@ -4158,10 +4158,10 @@
         "price": 437.2,
         "coupon_code": "WELCOME5",
         "city": "Montreal",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "3/27/2016",
-        "days_since_purchase": 3473,
-        "total_amount": 3451060.0599999996
+        "days_since_purchase": 3474,
+        "total_amount": 3632694.8
     },
     "347": {
         "customer_id": 8988,
@@ -4170,10 +4170,10 @@
         "price": 668.27,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Montreal",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "12/23/2016",
-        "days_since_purchase": 3202,
-        "total_amount": 341151.83499999996
+        "days_since_purchase": 3203,
+        "total_amount": 682303.6699999999
     },
     "348": {
         "customer_id": 7005,
@@ -4182,10 +4182,10 @@
         "price": 9.33,
         "coupon_code": "WELCOME5",
         "city": "Toronto",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "4/18/2013",
-        "days_since_purchase": 4547,
-        "total_amount": 73177.056
+        "days_since_purchase": 4548,
+        "total_amount": 77028.48
     },
     "349": {
         "customer_id": 9524,
@@ -4194,10 +4194,10 @@
         "price": 668.27,
         "coupon_code": "WELCOME5",
         "city": "Calgary",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "3/8/2017",
-        "days_since_purchase": 3127,
-        "total_amount": 4574141.0825
+        "days_since_purchase": 3128,
+        "total_amount": 4814885.35
     },
     "350": {
         "customer_id": 9636,
@@ -4206,10 +4206,10 @@
         "price": 81.73,
         "coupon_code": "WELCOME5",
         "city": "Toronto",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "6/3/2011",
-        "days_since_purchase": 5232,
-        "total_amount": 550647.702
+        "days_since_purchase": 5233,
+        "total_amount": 579629.16
     },
     "351": {
         "customer_id": 2215,
@@ -4218,10 +4218,10 @@
         "price": 81.73,
         "coupon_code": "WELCOME5",
         "city": "Ottawa",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "11/30/2013",
-        "days_since_purchase": 4321,
-        "total_amount": 324006.32550000004
+        "days_since_purchase": 4322,
+        "total_amount": 341059.29000000004
     },
     "352": {
         "customer_id": 2826,
@@ -4230,10 +4230,10 @@
         "price": 205.7,
         "coupon_code": "WELCOME5",
         "city": "Ottawa",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "5/11/2013",
-        "days_since_purchase": 4524,
-        "total_amount": 1315729.1949999998
+        "days_since_purchase": 4525,
+        "total_amount": 1384978.0999999999
     },
     "353": {
         "customer_id": 7373,
@@ -4242,10 +4242,10 @@
         "price": 81.73,
         "coupon_code": "WELCOME5",
         "city": "Montreal",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "11/13/2010",
-        "days_since_purchase": 5434,
-        "total_amount": 6910.2715
+        "days_since_purchase": 5435,
+        "total_amount": 7273.97
     },
     "354": {
         "customer_id": 1029,
@@ -4254,10 +4254,10 @@
         "price": 651.21,
         "coupon_code": "SAVE10",
         "city": "Vancouver",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "3/9/2016",
-        "days_since_purchase": 3491,
-        "total_amount": 932467.5990000002
+        "days_since_purchase": 3492,
+        "total_amount": 1036075.1100000001
     },
     "355": {
         "customer_id": 6071,
@@ -4266,10 +4266,10 @@
         "price": 152.58,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Calgary",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "8/19/2013",
-        "days_since_purchase": 4424,
-        "total_amount": 428597.22000000003
+        "days_since_purchase": 4425,
+        "total_amount": 857194.4400000001
     },
     "356": {
         "customer_id": 1994,
@@ -4278,10 +4278,10 @@
         "price": 47.45,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "4/19/2011",
-        "days_since_purchase": 5277,
-        "total_amount": 203584.225
+        "days_since_purchase": 5278,
+        "total_amount": 407168.45
     },
     "357": {
         "customer_id": 8500,
@@ -4290,10 +4290,10 @@
         "price": 255.28,
         "coupon_code": "HOLIDAY25",
         "city": "Calgary",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "7/20/2014",
-        "days_since_purchase": 4089,
-        "total_amount": 751097.5800000001
+        "days_since_purchase": 4090,
+        "total_amount": 1001463.4400000001
     },
     "358": {
         "customer_id": 3328,
@@ -4304,7 +4304,7 @@
         "city": "Montreal",
         "discount": 0,
         "purchase_date": "9/8/2014",
-        "days_since_purchase": 4039,
+        "days_since_purchase": 4040,
         "total_amount": 337701.65
     },
     "359": {
@@ -4316,7 +4316,7 @@
         "city": "Ottawa",
         "discount": 0,
         "purchase_date": "6/4/2015",
-        "days_since_purchase": 3770,
+        "days_since_purchase": 3771,
         "total_amount": 446404.36
     },
     "360": {
@@ -4328,7 +4328,7 @@
         "city": "Edmonton",
         "discount": 0,
         "purchase_date": "12/19/2013",
-        "days_since_purchase": 4302,
+        "days_since_purchase": 4303,
         "total_amount": 1874544.0999999999
     },
     "361": {
@@ -4338,10 +4338,10 @@
         "price": 205.7,
         "coupon_code": "HOLIDAY25",
         "city": "Toronto",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "5/18/2012",
-        "days_since_purchase": 4882,
-        "total_amount": 620031.225
+        "days_since_purchase": 4883,
+        "total_amount": 826708.2999999999
     },
     "362": {
         "customer_id": 5204,
@@ -4350,10 +4350,10 @@
         "price": 437.2,
         "coupon_code": "WELCOME5",
         "city": "Montreal",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "10/12/2013",
-        "days_since_purchase": 4370,
-        "total_amount": 3731414.5599999996
+        "days_since_purchase": 4371,
+        "total_amount": 3927804.8
     },
     "363": {
         "customer_id": 3296,
@@ -4362,10 +4362,10 @@
         "price": 9.33,
         "coupon_code": "SAVE10",
         "city": "Montreal",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "1/2/2011",
-        "days_since_purchase": 5384,
-        "total_amount": 38945.286
+        "days_since_purchase": 5385,
+        "total_amount": 43272.54
     },
     "364": {
         "customer_id": 2267,
@@ -4376,7 +4376,7 @@
         "city": "Unknown",
         "discount": 0,
         "purchase_date": "2/2/2013",
-        "days_since_purchase": 4622,
+        "days_since_purchase": 4623,
         "total_amount": 2433839.34
     },
     "365": {
@@ -4386,10 +4386,10 @@
         "price": 255.28,
         "coupon_code": "SAVE10",
         "city": "Calgary",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "3/19/2011",
-        "days_since_purchase": 5308,
-        "total_amount": 1307059.128
+        "days_since_purchase": 5309,
+        "total_amount": 1452287.92
     },
     "366": {
         "customer_id": 5895,
@@ -4400,7 +4400,7 @@
         "city": "Edmonton",
         "discount": 0,
         "purchase_date": "10/3/2012",
-        "days_since_purchase": 4744,
+        "days_since_purchase": 4745,
         "total_amount": 204570.19
     },
     "367": {
@@ -4412,7 +4412,7 @@
         "city": "Calgary",
         "discount": 0,
         "purchase_date": "10/23/2014",
-        "days_since_purchase": 3994,
+        "days_since_purchase": 3995,
         "total_amount": 134663.1
     },
     "368": {
@@ -4422,10 +4422,10 @@
         "price": 255.28,
         "coupon_code": "SAVE10",
         "city": "Montreal",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "7/12/2015",
-        "days_since_purchase": 3732,
-        "total_amount": 1718544.96
+        "days_since_purchase": 3733,
+        "total_amount": 1909494.4
     },
     "369": {
         "customer_id": 5924,
@@ -4434,10 +4434,10 @@
         "price": 205.7,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "5/6/2010",
-        "days_since_purchase": 5625,
-        "total_amount": 436803.94999999995
+        "days_since_purchase": 5626,
+        "total_amount": 873607.8999999999
     },
     "370": {
         "customer_id": 8759,
@@ -4446,10 +4446,10 @@
         "price": 154.06,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Toronto",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "11/27/2010",
-        "days_since_purchase": 5420,
-        "total_amount": 230165.64
+        "days_since_purchase": 5421,
+        "total_amount": 460331.28
     },
     "371": {
         "customer_id": 7408,
@@ -4458,10 +4458,10 @@
         "price": 109.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "12/26/2010",
-        "days_since_purchase": 5391,
-        "total_amount": 31800.48
+        "days_since_purchase": 5392,
+        "total_amount": 63600.96
     },
     "372": {
         "customer_id": 2547,
@@ -4470,10 +4470,10 @@
         "price": 437.2,
         "coupon_code": "SAVE10",
         "city": "Calgary",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "12/30/2012",
-        "days_since_purchase": 4656,
-        "total_amount": 2337271.2
+        "days_since_purchase": 4657,
+        "total_amount": 2596968.0
     },
     "373": {
         "customer_id": 9904,
@@ -4482,10 +4482,10 @@
         "price": 81.73,
         "coupon_code": "SAVE10",
         "city": "Montreal",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "8/21/2016",
-        "days_since_purchase": 3326,
-        "total_amount": 368152.78500000003
+        "days_since_purchase": 3327,
+        "total_amount": 409058.65
     },
     "374": {
         "customer_id": 8875,
@@ -4494,10 +4494,10 @@
         "price": 81.73,
         "coupon_code": "HOLIDAY25",
         "city": "Toronto",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "2/3/2015",
-        "days_since_purchase": 3891,
-        "total_amount": 352521.92250000004
+        "days_since_purchase": 3892,
+        "total_amount": 470029.23000000004
     },
     "375": {
         "customer_id": 1002,
@@ -4506,10 +4506,10 @@
         "price": 205.7,
         "coupon_code": "WELCOME5",
         "city": "Calgary",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "12/19/2013",
-        "days_since_purchase": 4302,
-        "total_amount": 621615.1149999999
+        "days_since_purchase": 4303,
+        "total_amount": 654331.7
     },
     "376": {
         "customer_id": 9830,
@@ -4518,10 +4518,10 @@
         "price": 421.89,
         "coupon_code": "WELCOME5",
         "city": "Calgary",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "5/12/2012",
-        "days_since_purchase": 4888,
-        "total_amount": 1737047.697
+        "days_since_purchase": 4889,
+        "total_amount": 1828471.26
     },
     "377": {
         "customer_id": 7924,
@@ -4530,10 +4530,10 @@
         "price": 421.89,
         "coupon_code": "SAVE10",
         "city": "Toronto",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "3/28/2014",
-        "days_since_purchase": 4203,
-        "total_amount": 1243520.7750000001
+        "days_since_purchase": 4204,
+        "total_amount": 1381689.75
     },
     "378": {
         "customer_id": 4839,
@@ -4542,10 +4542,10 @@
         "price": 81.73,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Edmonton",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "1/11/2017",
-        "days_since_purchase": 3183,
-        "total_amount": 249399.095
+        "days_since_purchase": 3184,
+        "total_amount": 498798.19
     },
     "379": {
         "customer_id": 7263,
@@ -4554,10 +4554,10 @@
         "price": 255.28,
         "coupon_code": "WELCOME5",
         "city": "Vancouver",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "6/21/2015",
-        "days_since_purchase": 3753,
-        "total_amount": 1442727.684
+        "days_since_purchase": 3754,
+        "total_amount": 1518660.72
     },
     "380": {
         "customer_id": 8026,
@@ -4566,10 +4566,10 @@
         "price": 437.2,
         "coupon_code": "HOLIDAY25",
         "city": "Toronto",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "11/29/2012",
-        "days_since_purchase": 4687,
-        "total_amount": 2614674.5999999996
+        "days_since_purchase": 4688,
+        "total_amount": 3486232.8
     },
     "381": {
         "customer_id": 8235,
@@ -4578,10 +4578,10 @@
         "price": 154.06,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Toronto",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "1/1/2010",
-        "days_since_purchase": 5750,
-        "total_amount": 336544.07
+        "days_since_purchase": 5751,
+        "total_amount": 673088.14
     },
     "382": {
         "customer_id": 3645,
@@ -4590,10 +4590,10 @@
         "price": 421.89,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Edmonton",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "1/6/2016",
-        "days_since_purchase": 3554,
-        "total_amount": 1974234.255
+        "days_since_purchase": 3555,
+        "total_amount": 3948468.51
     },
     "383": {
         "customer_id": 2054,
@@ -4602,10 +4602,10 @@
         "price": 47.45,
         "coupon_code": "SAVE10",
         "city": "Unknown",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "10/14/2014",
-        "days_since_purchase": 4003,
-        "total_amount": 179318.295
+        "days_since_purchase": 4004,
+        "total_amount": 199242.55000000002
     },
     "384": {
         "customer_id": 3808,
@@ -4616,7 +4616,7 @@
         "city": "Toronto",
         "discount": 0,
         "purchase_date": "12/9/2013",
-        "days_since_purchase": 4312,
+        "days_since_purchase": 4313,
         "total_amount": 1415079.33
     },
     "385": {
@@ -4626,10 +4626,10 @@
         "price": 205.7,
         "coupon_code": "SAVE10",
         "city": "Toronto",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "10/19/2010",
-        "days_since_purchase": 5459,
-        "total_amount": 666653.13
+        "days_since_purchase": 5460,
+        "total_amount": 740725.7
     },
     "386": {
         "customer_id": 2340,
@@ -4640,7 +4640,7 @@
         "city": "Ottawa",
         "discount": 0,
         "purchase_date": "5/2/2011",
-        "days_since_purchase": 5264,
+        "days_since_purchase": 5265,
         "total_amount": 67835.90000000001
     },
     "387": {
@@ -4652,7 +4652,7 @@
         "city": "Edmonton",
         "discount": 0,
         "purchase_date": "3/17/2011",
-        "days_since_purchase": 5310,
+        "days_since_purchase": 5311,
         "total_amount": 494511.78
     },
     "388": {
@@ -4662,10 +4662,10 @@
         "price": 651.21,
         "coupon_code": "HOLIDAY25",
         "city": "Toronto",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "9/24/2014",
-        "days_since_purchase": 4023,
-        "total_amount": 1095986.43
+        "days_since_purchase": 4024,
+        "total_amount": 1461315.24
     },
     "389": {
         "customer_id": 8991,
@@ -4674,10 +4674,10 @@
         "price": 205.7,
         "coupon_code": "WELCOME5",
         "city": "Unknown",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "12/1/2015",
-        "days_since_purchase": 3590,
-        "total_amount": 1227792.4449999998
+        "days_since_purchase": 3591,
+        "total_amount": 1292413.0999999999
     },
     "390": {
         "customer_id": 5728,
@@ -4688,7 +4688,7 @@
         "city": "Vancouver",
         "discount": 0,
         "purchase_date": "6/2/2017",
-        "days_since_purchase": 3041,
+        "days_since_purchase": 3042,
         "total_amount": 1199025.3
     },
     "391": {
@@ -4698,10 +4698,10 @@
         "price": 437.2,
         "coupon_code": "HOLIDAY25",
         "city": "Vancouver",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "8/4/2011",
-        "days_since_purchase": 5170,
-        "total_amount": 2751081.0
+        "days_since_purchase": 5171,
+        "total_amount": 3668108.0
     },
     "392": {
         "customer_id": 7228,
@@ -4710,10 +4710,10 @@
         "price": 421.89,
         "coupon_code": "HOLIDAY25",
         "city": "Ottawa",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "7/29/2014",
-        "days_since_purchase": 4080,
-        "total_amount": 1107144.8325
+        "days_since_purchase": 4081,
+        "total_amount": 1476193.1099999999
     },
     "393": {
         "customer_id": 5823,
@@ -4722,10 +4722,10 @@
         "price": 421.89,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Unknown",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "1/26/2017",
-        "days_since_purchase": 3168,
-        "total_amount": 1629761.0699999998
+        "days_since_purchase": 3169,
+        "total_amount": 3259522.1399999997
     },
     "394": {
         "customer_id": 3331,
@@ -4734,10 +4734,10 @@
         "price": 9.33,
         "coupon_code": "HOLIDAY25",
         "city": "Vancouver",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "11/5/2010",
-        "days_since_purchase": 5442,
-        "total_amount": 67658.8275
+        "days_since_purchase": 5443,
+        "total_amount": 90211.77
     },
     "395": {
         "customer_id": 2191,
@@ -4748,7 +4748,7 @@
         "city": "Vancouver",
         "discount": 0,
         "purchase_date": "3/26/2015",
-        "days_since_purchase": 3840,
+        "days_since_purchase": 3841,
         "total_amount": 1265422.96
     },
     "396": {
@@ -4758,10 +4758,10 @@
         "price": 109.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Toronto",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "10/7/2012",
-        "days_since_purchase": 4740,
-        "total_amount": 68354.64
+        "days_since_purchase": 4741,
+        "total_amount": 136709.28
     },
     "397": {
         "customer_id": 9843,
@@ -4770,10 +4770,10 @@
         "price": 421.89,
         "coupon_code": "WELCOME5",
         "city": "Edmonton",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "7/22/2013",
-        "days_since_purchase": 4452,
-        "total_amount": 1300581.3975
+        "days_since_purchase": 4453,
+        "total_amount": 1369033.05
     },
     "398": {
         "customer_id": 9588,
@@ -4782,10 +4782,10 @@
         "price": 437.2,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Vancouver",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "8/16/2013",
-        "days_since_purchase": 4427,
-        "total_amount": 1674694.5999999999
+        "days_since_purchase": 4428,
+        "total_amount": 3349389.1999999997
     },
     "399": {
         "customer_id": 6349,
@@ -4794,10 +4794,10 @@
         "price": 81.73,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Unknown",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "11/5/2013",
-        "days_since_purchase": 4346,
-        "total_amount": 337299.71
+        "days_since_purchase": 4347,
+        "total_amount": 674599.42
     },
     "400": {
         "customer_id": 5407,
@@ -4806,10 +4806,10 @@
         "price": 651.21,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "3/1/2016",
-        "days_since_purchase": 3499,
-        "total_amount": 264391.26
+        "days_since_purchase": 3500,
+        "total_amount": 528782.52
     },
     "401": {
         "customer_id": 3587,
@@ -4818,10 +4818,10 @@
         "price": 421.89,
         "coupon_code": "HOLIDAY25",
         "city": "Vancouver",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "3/25/2012",
-        "days_since_purchase": 4936,
-        "total_amount": 2578802.625
+        "days_since_purchase": 4937,
+        "total_amount": 3438403.5
     },
     "402": {
         "customer_id": 7775,
@@ -4830,10 +4830,10 @@
         "price": 437.2,
         "coupon_code": "SAVE10",
         "city": "Ottawa",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "6/20/2017",
-        "days_since_purchase": 3023,
-        "total_amount": 2013830.6400000001
+        "days_since_purchase": 3024,
+        "total_amount": 2237589.6
     },
     "403": {
         "customer_id": 2010,
@@ -4842,10 +4842,10 @@
         "price": 437.2,
         "coupon_code": "SAVE10",
         "city": "Ottawa",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "4/18/2014",
-        "days_since_purchase": 4182,
-        "total_amount": 1414954.08
+        "days_since_purchase": 4183,
+        "total_amount": 1572171.2
     },
     "404": {
         "customer_id": 5472,
@@ -4854,10 +4854,10 @@
         "price": 109.28,
         "coupon_code": "SAVE10",
         "city": "Unknown",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "6/28/2016",
-        "days_since_purchase": 3380,
-        "total_amount": 737049.888
+        "days_since_purchase": 3381,
+        "total_amount": 818944.3200000001
     },
     "405": {
         "customer_id": 3811,
@@ -4866,10 +4866,10 @@
         "price": 421.89,
         "coupon_code": "HOLIDAY25",
         "city": "Edmonton",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "5/20/2012",
-        "days_since_purchase": 4880,
-        "total_amount": 2453817.7125
+        "days_since_purchase": 4881,
+        "total_amount": 3271756.9499999997
     },
     "406": {
         "customer_id": 7925,
@@ -4878,10 +4878,10 @@
         "price": 651.21,
         "coupon_code": "SAVE10",
         "city": "Calgary",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "2/4/2014",
-        "days_since_purchase": 4255,
-        "total_amount": 4309512.417
+        "days_since_purchase": 4256,
+        "total_amount": 4788347.13
     },
     "407": {
         "customer_id": 2786,
@@ -4890,10 +4890,10 @@
         "price": 47.45,
         "coupon_code": "SAVE10",
         "city": "Montreal",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "11/15/2015",
-        "days_since_purchase": 3606,
-        "total_amount": 268742.56500000006
+        "days_since_purchase": 3607,
+        "total_amount": 298602.85000000003
     },
     "408": {
         "customer_id": 9850,
@@ -4902,10 +4902,10 @@
         "price": 255.28,
         "coupon_code": "SAVE10",
         "city": "Montreal",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "1/11/2013",
-        "days_since_purchase": 4644,
-        "total_amount": 1518660.72
+        "days_since_purchase": 4645,
+        "total_amount": 1687400.8
     },
     "409": {
         "customer_id": 5756,
@@ -4914,10 +4914,10 @@
         "price": 152.58,
         "coupon_code": "HOLIDAY25",
         "city": "Ottawa",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "4/24/2013",
-        "days_since_purchase": 4541,
-        "total_amount": 843729.2550000001
+        "days_since_purchase": 4542,
+        "total_amount": 1124972.34
     },
     "410": {
         "customer_id": 1055,
@@ -4926,10 +4926,10 @@
         "price": 437.2,
         "coupon_code": "WELCOME5",
         "city": "Toronto",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "5/15/2010",
-        "days_since_purchase": 5616,
-        "total_amount": 4020075.8599999994
+        "days_since_purchase": 5617,
+        "total_amount": 4231658.8
     },
     "411": {
         "customer_id": 1790,
@@ -4938,10 +4938,10 @@
         "price": 437.2,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Toronto",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "4/17/2010",
-        "days_since_purchase": 5644,
-        "total_amount": 362657.39999999997
+        "days_since_purchase": 5645,
+        "total_amount": 725314.7999999999
     },
     "412": {
         "customer_id": 1007,
@@ -4950,10 +4950,10 @@
         "price": 154.06,
         "coupon_code": "HOLIDAY25",
         "city": "Unknown",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "8/25/2012",
-        "days_since_purchase": 4783,
-        "total_amount": 401287.78500000003
+        "days_since_purchase": 4784,
+        "total_amount": 535050.38
     },
     "413": {
         "customer_id": 1732,
@@ -4964,7 +4964,7 @@
         "city": "Edmonton",
         "discount": 0,
         "purchase_date": "4/19/2014",
-        "days_since_purchase": 4181,
+        "days_since_purchase": 4182,
         "total_amount": 1547045.05
     },
     "414": {
@@ -4974,10 +4974,10 @@
         "price": 668.27,
         "coupon_code": "HOLIDAY25",
         "city": "Edmonton",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "2/26/2013",
-        "days_since_purchase": 4598,
-        "total_amount": 3712908.12
+        "days_since_purchase": 4599,
+        "total_amount": 4950544.16
     },
     "415": {
         "customer_id": 4929,
@@ -4986,10 +4986,10 @@
         "price": 255.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Calgary",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "12/28/2011",
-        "days_since_purchase": 5024,
-        "total_amount": 638965.84
+        "days_since_purchase": 5025,
+        "total_amount": 1277931.68
     },
     "416": {
         "customer_id": 1198,
@@ -4998,10 +4998,10 @@
         "price": 255.28,
         "coupon_code": "WELCOME5",
         "city": "Vancouver",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "8/21/2014",
-        "days_since_purchase": 4057,
-        "total_amount": 823341.82
+        "days_since_purchase": 4058,
+        "total_amount": 866675.6
     },
     "417": {
         "customer_id": 9439,
@@ -5010,10 +5010,10 @@
         "price": 154.06,
         "coupon_code": "HOLIDAY25",
         "city": "Unknown",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "8/21/2014",
-        "days_since_purchase": 4057,
-        "total_amount": 912112.2300000001
+        "days_since_purchase": 4058,
+        "total_amount": 1216149.6400000001
     },
     "418": {
         "customer_id": 4679,
@@ -5022,10 +5022,10 @@
         "price": 205.7,
         "coupon_code": "HOLIDAY25",
         "city": "Montreal",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "3/2/2014",
-        "days_since_purchase": 4229,
-        "total_amount": 902663.0249999999
+        "days_since_purchase": 4230,
+        "total_amount": 1203550.7
     },
     "419": {
         "customer_id": 6946,
@@ -5034,10 +5034,10 @@
         "price": 668.27,
         "coupon_code": "SAVE10",
         "city": "Edmonton",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "9/6/2012",
-        "days_since_purchase": 4771,
-        "total_amount": 989975.178
+        "days_since_purchase": 4772,
+        "total_amount": 1099972.42
     },
     "420": {
         "customer_id": 9296,
@@ -5046,10 +5046,10 @@
         "price": 9.33,
         "coupon_code": "WELCOME5",
         "city": "Toronto",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "9/16/2010",
-        "days_since_purchase": 5492,
-        "total_amount": 14970.4515
+        "days_since_purchase": 5493,
+        "total_amount": 15758.37
     },
     "421": {
         "customer_id": 1338,
@@ -5058,10 +5058,10 @@
         "price": 47.45,
         "coupon_code": "SAVE10",
         "city": "Ottawa",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "8/13/2013",
-        "days_since_purchase": 4430,
-        "total_amount": 402451.92000000004
+        "days_since_purchase": 4431,
+        "total_amount": 447168.80000000005
     },
     "422": {
         "customer_id": 9724,
@@ -5072,7 +5072,7 @@
         "city": "Vancouver",
         "discount": 0,
         "purchase_date": "9/11/2012",
-        "days_since_purchase": 4766,
+        "days_since_purchase": 4767,
         "total_amount": 26398.79
     },
     "423": {
@@ -5082,10 +5082,10 @@
         "price": 651.21,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "8/31/2011",
-        "days_since_purchase": 5143,
-        "total_amount": 2244069.66
+        "days_since_purchase": 5144,
+        "total_amount": 4488139.32
     },
     "424": {
         "customer_id": 5875,
@@ -5094,10 +5094,10 @@
         "price": 437.2,
         "coupon_code": "WELCOME5",
         "city": "Calgary",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "4/21/2015",
-        "days_since_purchase": 3814,
-        "total_amount": 1523051.7799999998
+        "days_since_purchase": 3815,
+        "total_amount": 1603212.4
     },
     "425": {
         "customer_id": 9756,
@@ -5108,7 +5108,7 @@
         "city": "Edmonton",
         "discount": 0,
         "purchase_date": "7/11/2010",
-        "days_since_purchase": 5559,
+        "days_since_purchase": 5560,
         "total_amount": 1480218.05
     },
     "426": {
@@ -5118,10 +5118,10 @@
         "price": 421.89,
         "coupon_code": "SAVE10",
         "city": "Unknown",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "8/9/2015",
-        "days_since_purchase": 3704,
-        "total_amount": 2329465.635
+        "days_since_purchase": 3705,
+        "total_amount": 2588295.15
     },
     "427": {
         "customer_id": 1254,
@@ -5130,10 +5130,10 @@
         "price": 421.89,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Edmonton",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "10/17/2015",
-        "days_since_purchase": 3635,
-        "total_amount": 1277693.865
+        "days_since_purchase": 3636,
+        "total_amount": 2555387.73
     },
     "428": {
         "customer_id": 9482,
@@ -5142,10 +5142,10 @@
         "price": 205.7,
         "coupon_code": "SAVE10",
         "city": "Montreal",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "7/24/2012",
-        "days_since_purchase": 4815,
-        "total_amount": 859188.33
+        "days_since_purchase": 4816,
+        "total_amount": 954653.7
     },
     "429": {
         "customer_id": 9179,
@@ -5154,10 +5154,10 @@
         "price": 152.58,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Calgary",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "3/25/2012",
-        "days_since_purchase": 4936,
-        "total_amount": 120614.49
+        "days_since_purchase": 4937,
+        "total_amount": 241228.98
     },
     "430": {
         "customer_id": 4229,
@@ -5166,10 +5166,10 @@
         "price": 255.28,
         "coupon_code": "SAVE10",
         "city": "Edmonton",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "8/11/2014",
-        "days_since_purchase": 4067,
-        "total_amount": 1975867.2
+        "days_since_purchase": 4068,
+        "total_amount": 2195408.0
     },
     "431": {
         "customer_id": 6368,
@@ -5178,10 +5178,10 @@
         "price": 205.7,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Toronto",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "10/15/2016",
-        "days_since_purchase": 3271,
-        "total_amount": 457888.19999999995
+        "days_since_purchase": 3272,
+        "total_amount": 915776.3999999999
     },
     "432": {
         "customer_id": 4740,
@@ -5190,10 +5190,10 @@
         "price": 437.2,
         "coupon_code": "HOLIDAY25",
         "city": "Vancouver",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "12/3/2016",
-        "days_since_purchase": 3222,
-        "total_amount": 3254079.5999999996
+        "days_since_purchase": 3223,
+        "total_amount": 4338772.8
     },
     "433": {
         "customer_id": 6451,
@@ -5202,10 +5202,10 @@
         "price": 81.73,
         "coupon_code": "SAVE10",
         "city": "Vancouver",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "6/12/2010",
-        "days_since_purchase": 5588,
-        "total_amount": 208460.538
+        "days_since_purchase": 5589,
+        "total_amount": 231622.82
     },
     "434": {
         "customer_id": 1114,
@@ -5214,10 +5214,10 @@
         "price": 154.06,
         "coupon_code": "HOLIDAY25",
         "city": "Ottawa",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "7/29/2016",
-        "days_since_purchase": 3349,
-        "total_amount": 350101.35
+        "days_since_purchase": 3350,
+        "total_amount": 466801.8
     },
     "435": {
         "customer_id": 6345,
@@ -5226,10 +5226,10 @@
         "price": 651.21,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "12/9/2013",
-        "days_since_purchase": 4312,
-        "total_amount": 2406546.555
+        "days_since_purchase": 4313,
+        "total_amount": 4813093.11
     },
     "436": {
         "customer_id": 2706,
@@ -5238,10 +5238,10 @@
         "price": 109.28,
         "coupon_code": "SAVE10",
         "city": "Montreal",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "7/12/2012",
-        "days_since_purchase": 4827,
-        "total_amount": 474941.808
+        "days_since_purchase": 4828,
+        "total_amount": 527713.12
     },
     "437": {
         "customer_id": 9015,
@@ -5252,7 +5252,7 @@
         "city": "Montreal",
         "discount": 0,
         "purchase_date": "1/14/2012",
-        "days_since_purchase": 5007,
+        "days_since_purchase": 5008,
         "total_amount": 12007.710000000001
     },
     "438": {
@@ -5262,10 +5262,10 @@
         "price": 81.73,
         "coupon_code": "SAVE10",
         "city": "Toronto",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "3/20/2013",
-        "days_since_purchase": 4576,
-        "total_amount": 348513.066
+        "days_since_purchase": 4577,
+        "total_amount": 387236.74
     },
     "439": {
         "customer_id": 5742,
@@ -5274,10 +5274,10 @@
         "price": 668.27,
         "coupon_code": "SAVE10",
         "city": "Toronto",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "2/10/2014",
-        "days_since_purchase": 4249,
-        "total_amount": 111868.398
+        "days_since_purchase": 4250,
+        "total_amount": 124298.22
     },
     "440": {
         "customer_id": 2728,
@@ -5286,10 +5286,10 @@
         "price": 152.58,
         "coupon_code": "SAVE10",
         "city": "Unknown",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "10/26/2013",
-        "days_since_purchase": 4356,
-        "total_amount": 641019.096
+        "days_since_purchase": 4357,
+        "total_amount": 712243.4400000001
     },
     "441": {
         "customer_id": 5318,
@@ -5298,10 +5298,10 @@
         "price": 47.45,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Vancouver",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "4/16/2016",
-        "days_since_purchase": 3453,
-        "total_amount": 53428.700000000004
+        "days_since_purchase": 3454,
+        "total_amount": 106857.40000000001
     },
     "442": {
         "customer_id": 5434,
@@ -5310,10 +5310,10 @@
         "price": 437.2,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Montreal",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "5/27/2011",
-        "days_since_purchase": 5239,
-        "total_amount": 1975269.5999999999
+        "days_since_purchase": 5240,
+        "total_amount": 3950539.1999999997
     },
     "443": {
         "customer_id": 8867,
@@ -5322,10 +5322,10 @@
         "price": 205.7,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Unknown",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "8/4/2016",
-        "days_since_purchase": 3343,
-        "total_amount": 838124.6499999999
+        "days_since_purchase": 3344,
+        "total_amount": 1676249.2999999998
     },
     "444": {
         "customer_id": 3290,
@@ -5334,10 +5334,10 @@
         "price": 152.58,
         "coupon_code": "WELCOME5",
         "city": "Vancouver",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "7/3/2012",
-        "days_since_purchase": 4836,
-        "total_amount": 689097.054
+        "days_since_purchase": 4837,
+        "total_amount": 725365.3200000001
     },
     "445": {
         "customer_id": 6313,
@@ -5346,10 +5346,10 @@
         "price": 47.45,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Calgary",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "12/4/2014",
-        "days_since_purchase": 3952,
-        "total_amount": 24721.45
+        "days_since_purchase": 3953,
+        "total_amount": 49442.9
     },
     "446": {
         "customer_id": 5057,
@@ -5358,10 +5358,10 @@
         "price": 437.2,
         "coupon_code": "SAVE10",
         "city": "Calgary",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "5/31/2010",
-        "days_since_purchase": 5600,
-        "total_amount": 486734.76
+        "days_since_purchase": 5601,
+        "total_amount": 540816.4
     },
     "447": {
         "customer_id": 5254,
@@ -5370,10 +5370,10 @@
         "price": 47.45,
         "coupon_code": "HOLIDAY25",
         "city": "Toronto",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "2/5/2013",
-        "days_since_purchase": 4619,
-        "total_amount": 234663.97500000003
+        "days_since_purchase": 4620,
+        "total_amount": 312885.30000000005
     },
     "448": {
         "customer_id": 7962,
@@ -5384,7 +5384,7 @@
         "city": "Unknown",
         "discount": 0,
         "purchase_date": "6/15/2015",
-        "days_since_purchase": 3759,
+        "days_since_purchase": 3760,
         "total_amount": 18932.550000000003
     },
     "449": {
@@ -5394,10 +5394,10 @@
         "price": 154.06,
         "coupon_code": "WELCOME5",
         "city": "Calgary",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "10/21/2014",
-        "days_since_purchase": 3996,
-        "total_amount": 434533.933
+        "days_since_purchase": 3997,
+        "total_amount": 457404.14
     },
     "450": {
         "customer_id": 8509,
@@ -5408,7 +5408,7 @@
         "city": "Calgary",
         "discount": 0,
         "purchase_date": "2/13/2017",
-        "days_since_purchase": 3150,
+        "days_since_purchase": 3151,
         "total_amount": 1015114.7400000001
     },
     "451": {
@@ -5418,10 +5418,10 @@
         "price": 154.06,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Edmonton",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "6/29/2010",
-        "days_since_purchase": 5571,
-        "total_amount": 64088.96
+        "days_since_purchase": 5572,
+        "total_amount": 128177.92
     },
     "452": {
         "customer_id": 3467,
@@ -5432,7 +5432,7 @@
         "city": "Ottawa",
         "discount": 0,
         "purchase_date": "5/19/2014",
-        "days_since_purchase": 4151,
+        "days_since_purchase": 4152,
         "total_amount": 1065324.9
     },
     "453": {
@@ -5442,10 +5442,10 @@
         "price": 421.89,
         "coupon_code": "WELCOME5",
         "city": "Calgary",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "3/21/2015",
-        "days_since_purchase": 3845,
-        "total_amount": 1341061.7429999998
+        "days_since_purchase": 3846,
+        "total_amount": 1411643.94
     },
     "454": {
         "customer_id": 5219,
@@ -5454,10 +5454,10 @@
         "price": 651.21,
         "coupon_code": "SAVE10",
         "city": "Toronto",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "8/31/2015",
-        "days_since_purchase": 3682,
-        "total_amount": 350481.222
+        "days_since_purchase": 3683,
+        "total_amount": 389423.58
     },
     "455": {
         "customer_id": 7529,
@@ -5466,10 +5466,10 @@
         "price": 81.73,
         "coupon_code": "HOLIDAY25",
         "city": "Calgary",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "8/23/2015",
-        "days_since_purchase": 3690,
-        "total_amount": 378573.36000000004
+        "days_since_purchase": 3691,
+        "total_amount": 504764.48000000004
     },
     "456": {
         "customer_id": 8614,
@@ -5480,7 +5480,7 @@
         "city": "Edmonton",
         "discount": 0,
         "purchase_date": "2/24/2016",
-        "days_since_purchase": 3505,
+        "days_since_purchase": 3506,
         "total_amount": 4203678.0
     },
     "457": {
@@ -5490,10 +5490,10 @@
         "price": 668.27,
         "coupon_code": "HOLIDAY25",
         "city": "Montreal",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "6/17/2015",
-        "days_since_purchase": 3757,
-        "total_amount": 3751500.7125000004
+        "days_since_purchase": 3758,
+        "total_amount": 5002000.95
     },
     "458": {
         "customer_id": 7812,
@@ -5502,10 +5502,10 @@
         "price": 205.7,
         "coupon_code": "WELCOME5",
         "city": "Edmonton",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "11/27/2012",
-        "days_since_purchase": 4689,
-        "total_amount": 1637968.5299999998
+        "days_since_purchase": 4690,
+        "total_amount": 1724177.4
     },
     "459": {
         "customer_id": 6735,
@@ -5514,10 +5514,10 @@
         "price": 152.58,
         "coupon_code": "SAVE10",
         "city": "Edmonton",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "9/7/2012",
-        "days_since_purchase": 4770,
-        "total_amount": 1090062.036
+        "days_since_purchase": 4771,
+        "total_amount": 1211180.04
     },
     "460": {
         "customer_id": 9865,
@@ -5526,10 +5526,10 @@
         "price": 109.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Toronto",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "6/23/2012",
-        "days_since_purchase": 4846,
-        "total_amount": 208287.68
+        "days_since_purchase": 4847,
+        "total_amount": 416575.36
     },
     "461": {
         "customer_id": 7602,
@@ -5540,7 +5540,7 @@
         "city": "Toronto",
         "discount": 0,
         "purchase_date": "10/23/2014",
-        "days_since_purchase": 3994,
+        "days_since_purchase": 3995,
         "total_amount": 33120.1
     },
     "462": {
@@ -5550,10 +5550,10 @@
         "price": 437.2,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Edmonton",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "9/18/2015",
-        "days_since_purchase": 3664,
-        "total_amount": 1162952.0
+        "days_since_purchase": 3665,
+        "total_amount": 2325904.0
     },
     "463": {
         "customer_id": 3473,
@@ -5562,10 +5562,10 @@
         "price": 651.21,
         "coupon_code": "HOLIDAY25",
         "city": "Vancouver",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "1/24/2016",
-        "days_since_purchase": 3536,
-        "total_amount": 698911.1325000001
+        "days_since_purchase": 3537,
+        "total_amount": 931881.51
     },
     "464": {
         "customer_id": 3906,
@@ -5574,10 +5574,10 @@
         "price": 9.33,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Unknown",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "3/23/2010",
-        "days_since_purchase": 5669,
-        "total_amount": 22475.97
+        "days_since_purchase": 5670,
+        "total_amount": 44951.94
     },
     "465": {
         "customer_id": 6266,
@@ -5588,7 +5588,7 @@
         "city": "Montreal",
         "discount": 0,
         "purchase_date": "7/26/2012",
-        "days_since_purchase": 4813,
+        "days_since_purchase": 4814,
         "total_amount": 678277.27
     },
     "466": {
@@ -5598,10 +5598,10 @@
         "price": 109.28,
         "coupon_code": "WELCOME5",
         "city": "Edmonton",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "10/20/2015",
-        "days_since_purchase": 3632,
-        "total_amount": 697851.152
+        "days_since_purchase": 3633,
+        "total_amount": 734580.16
     },
     "467": {
         "customer_id": 7636,
@@ -5610,10 +5610,10 @@
         "price": 651.21,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Toronto",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "6/27/2017",
-        "days_since_purchase": 3016,
-        "total_amount": 640790.64
+        "days_since_purchase": 3017,
+        "total_amount": 1281581.28
     },
     "468": {
         "customer_id": 8692,
@@ -5622,10 +5622,10 @@
         "price": 47.45,
         "coupon_code": "SAVE10",
         "city": "Toronto",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "4/4/2016",
-        "days_since_purchase": 3465,
-        "total_amount": 339333.93
+        "days_since_purchase": 3466,
+        "total_amount": 377037.7
     },
     "469": {
         "customer_id": 9966,
@@ -5634,10 +5634,10 @@
         "price": 109.28,
         "coupon_code": "WELCOME5",
         "city": "Unknown",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "8/5/2015",
-        "days_since_purchase": 3708,
-        "total_amount": 581369.6
+        "days_since_purchase": 3709,
+        "total_amount": 611968.0
     },
     "470": {
         "customer_id": 6170,
@@ -5646,10 +5646,10 @@
         "price": 205.7,
         "coupon_code": "SAVE10",
         "city": "Montreal",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "6/16/2012",
-        "days_since_purchase": 4853,
-        "total_amount": 1463082.39
+        "days_since_purchase": 4854,
+        "total_amount": 1625647.0999999999
     },
     "471": {
         "customer_id": 9181,
@@ -5660,7 +5660,7 @@
         "city": "Montreal",
         "discount": 0,
         "purchase_date": "4/3/2016",
-        "days_since_purchase": 3466,
+        "days_since_purchase": 3467,
         "total_amount": 2124792.0
     },
     "472": {
@@ -5670,10 +5670,10 @@
         "price": 255.28,
         "coupon_code": "HOLIDAY25",
         "city": "Unknown",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "9/21/2014",
-        "days_since_purchase": 4026,
-        "total_amount": 1628941.6800000002
+        "days_since_purchase": 4027,
+        "total_amount": 2171922.24
     },
     "473": {
         "customer_id": 2197,
@@ -5684,7 +5684,7 @@
         "city": "Unknown",
         "discount": 0,
         "purchase_date": "8/8/2015",
-        "days_since_purchase": 3705,
+        "days_since_purchase": 3706,
         "total_amount": 1207365.54
     },
     "474": {
@@ -5694,10 +5694,10 @@
         "price": 651.21,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "7/19/2012",
-        "days_since_purchase": 4820,
-        "total_amount": 1359075.27
+        "days_since_purchase": 4821,
+        "total_amount": 2718150.54
     },
     "475": {
         "customer_id": 2390,
@@ -5706,10 +5706,10 @@
         "price": 152.58,
         "coupon_code": "WELCOME5",
         "city": "Montreal",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "8/26/2011",
-        "days_since_purchase": 5148,
-        "total_amount": 785779.371
+        "days_since_purchase": 5149,
+        "total_amount": 827136.18
     },
     "476": {
         "customer_id": 2998,
@@ -5718,10 +5718,10 @@
         "price": 668.27,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Montreal",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "6/23/2012",
-        "days_since_purchase": 4846,
-        "total_amount": 606789.16
+        "days_since_purchase": 4847,
+        "total_amount": 1213578.32
     },
     "477": {
         "customer_id": 2688,
@@ -5732,7 +5732,7 @@
         "city": "Unknown",
         "discount": 0,
         "purchase_date": "11/20/2011",
-        "days_since_purchase": 5062,
+        "days_since_purchase": 5063,
         "total_amount": 26097.5
     },
     "478": {
@@ -5742,10 +5742,10 @@
         "price": 47.45,
         "coupon_code": "HOLIDAY25",
         "city": "Montreal",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "5/13/2015",
-        "days_since_purchase": 3792,
-        "total_amount": 30178.200000000004
+        "days_since_purchase": 3793,
+        "total_amount": 40237.600000000006
     },
     "479": {
         "customer_id": 5143,
@@ -5754,10 +5754,10 @@
         "price": 81.73,
         "coupon_code": "WELCOME5",
         "city": "Calgary",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "7/16/2010",
-        "days_since_purchase": 5554,
-        "total_amount": 695918.6904999999
+        "days_since_purchase": 5555,
+        "total_amount": 732545.99
     },
     "480": {
         "customer_id": 2291,
@@ -5766,10 +5766,10 @@
         "price": 437.2,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Montreal",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "5/21/2016",
-        "days_since_purchase": 3418,
-        "total_amount": 695803.7999999999
+        "days_since_purchase": 3419,
+        "total_amount": 1391607.5999999999
     },
     "481": {
         "customer_id": 3124,
@@ -5778,10 +5778,10 @@
         "price": 437.2,
         "coupon_code": "SAVE10",
         "city": "Edmonton",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "4/22/2011",
-        "days_since_purchase": 5274,
-        "total_amount": 3472461.0
+        "days_since_purchase": 5275,
+        "total_amount": 3858290.0
     },
     "482": {
         "customer_id": 5036,
@@ -5790,10 +5790,10 @@
         "price": 47.45,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Unknown",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "8/14/2012",
-        "days_since_purchase": 4794,
-        "total_amount": 76797.82500000001
+        "days_since_purchase": 4795,
+        "total_amount": 153595.65000000002
     },
     "483": {
         "customer_id": 1815,
@@ -5802,10 +5802,10 @@
         "price": 109.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "3/17/2012",
-        "days_since_purchase": 4944,
-        "total_amount": 43657.36
+        "days_since_purchase": 4945,
+        "total_amount": 87314.72
     },
     "484": {
         "customer_id": 9658,
@@ -5814,10 +5814,10 @@
         "price": 668.27,
         "coupon_code": "HOLIDAY25",
         "city": "Unknown",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "8/6/2010",
-        "days_since_purchase": 5533,
-        "total_amount": 3970526.2049999996
+        "days_since_purchase": 5534,
+        "total_amount": 5294034.9399999995
     },
     "485": {
         "customer_id": 4344,
@@ -5826,10 +5826,10 @@
         "price": 255.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Edmonton",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "2/25/2013",
-        "days_since_purchase": 4599,
-        "total_amount": 1027374.36
+        "days_since_purchase": 4600,
+        "total_amount": 2054748.72
     },
     "486": {
         "customer_id": 7579,
@@ -5838,10 +5838,10 @@
         "price": 421.89,
         "coupon_code": "WELCOME5",
         "city": "Toronto",
-        "discount": 5,
+        "discount": 0,
         "purchase_date": "3/6/2011",
-        "days_since_purchase": 5321,
-        "total_amount": 2666893.2569999998
+        "days_since_purchase": 5322,
+        "total_amount": 2807256.06
     },
     "487": {
         "customer_id": 6574,
@@ -5850,10 +5850,10 @@
         "price": 651.21,
         "coupon_code": "SAVE10",
         "city": "Vancouver",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "12/14/2015",
-        "days_since_purchase": 3577,
-        "total_amount": 3657195.3600000003
+        "days_since_purchase": 3578,
+        "total_amount": 4063550.4000000004
     },
     "488": {
         "customer_id": 6801,
@@ -5864,7 +5864,7 @@
         "city": "Edmonton",
         "discount": 0,
         "purchase_date": "2/10/2017",
-        "days_since_purchase": 3153,
+        "days_since_purchase": 3154,
         "total_amount": 875877.4500000001
     },
     "489": {
@@ -5874,10 +5874,10 @@
         "price": 651.21,
         "coupon_code": "SAVE10",
         "city": "Ottawa",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "9/20/2016",
-        "days_since_purchase": 3296,
-        "total_amount": 2072410.7040000001
+        "days_since_purchase": 3297,
+        "total_amount": 2302678.56
     },
     "490": {
         "customer_id": 6103,
@@ -5886,10 +5886,10 @@
         "price": 255.28,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Edmonton",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "4/30/2010",
-        "days_since_purchase": 5631,
-        "total_amount": 818300.04
+        "days_since_purchase": 5632,
+        "total_amount": 1636600.08
     },
     "491": {
         "customer_id": 7166,
@@ -5900,7 +5900,7 @@
         "city": "Montreal",
         "discount": 0,
         "purchase_date": "6/25/2013",
-        "days_since_purchase": 4479,
+        "days_since_purchase": 4480,
         "total_amount": 28470.0
     },
     "492": {
@@ -5910,10 +5910,10 @@
         "price": 668.27,
         "coupon_code": "SAVE10",
         "city": "Ottawa",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "7/4/2012",
-        "days_since_purchase": 4835,
-        "total_amount": 5271647.895
+        "days_since_purchase": 4836,
+        "total_amount": 5857386.55
     },
     "493": {
         "customer_id": 8311,
@@ -5922,10 +5922,10 @@
         "price": 152.58,
         "coupon_code": "HOLIDAY25",
         "city": "Calgary",
-        "discount": 25,
+        "discount": 0,
         "purchase_date": "9/21/2013",
-        "days_since_purchase": 4391,
-        "total_amount": 68317.695
+        "days_since_purchase": 4392,
+        "total_amount": 91090.26000000001
     },
     "494": {
         "customer_id": 2943,
@@ -5934,10 +5934,10 @@
         "price": 81.73,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Toronto",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "12/8/2016",
-        "days_since_purchase": 3217,
-        "total_amount": 319605.16500000004
+        "days_since_purchase": 3218,
+        "total_amount": 639210.3300000001
     },
     "495": {
         "customer_id": 1601,
@@ -5946,10 +5946,10 @@
         "price": 421.89,
         "coupon_code": "SAVE10",
         "city": "Vancouver",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "9/2/2011",
-        "days_since_purchase": 5141,
-        "total_amount": 3489831.891
+        "days_since_purchase": 5142,
+        "total_amount": 3877590.9899999998
     },
     "496": {
         "customer_id": 6372,
@@ -5960,7 +5960,7 @@
         "city": "Edmonton",
         "discount": 0,
         "purchase_date": "3/21/2011",
-        "days_since_purchase": 5306,
+        "days_since_purchase": 5307,
         "total_amount": 449024.62
     },
     "497": {
@@ -5970,10 +5970,10 @@
         "price": 9.33,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Ottawa",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "1/8/2011",
-        "days_since_purchase": 5378,
-        "total_amount": 21207.09
+        "days_since_purchase": 5379,
+        "total_amount": 42414.18
     },
     "498": {
         "customer_id": 2833,
@@ -5982,10 +5982,10 @@
         "price": 651.21,
         "coupon_code": "SAVE10",
         "city": "Ottawa",
-        "discount": 10,
+        "discount": 0,
         "purchase_date": "2/22/2015",
-        "days_since_purchase": 3872,
-        "total_amount": 3631993.5330000003
+        "days_since_purchase": 3873,
+        "total_amount": 4035548.37
     },
     "499": {
         "customer_id": 6674,
@@ -5994,9 +5994,9 @@
         "price": 9.33,
         "coupon_code": "BLACKFRIDAY50",
         "city": "Montreal",
-        "discount": 50,
+        "discount": 0,
         "purchase_date": "5/15/2017",
-        "days_since_purchase": 3059,
-        "total_amount": 34171.125
+        "days_since_purchase": 3060,
+        "total_amount": 68342.25
     }
 }
